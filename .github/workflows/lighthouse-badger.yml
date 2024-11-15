@@ -31,10 +31,10 @@ on:
   workflow_dispatch:
     inputs:
       urls:
-        description: 'URL(s) to be checked'
+        description: "URL(s) to be checked"
         required: true
       token_name:
-        description: 'Target token name (NO VALUE!)'
+        description: "Target token name (NO VALUE!)"
         required: true
 
 ########################################################################
