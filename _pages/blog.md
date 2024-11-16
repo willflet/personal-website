@@ -1,6 +1,6 @@
 ---
-layout: default
 permalink: /blog/
+layout: default
 title: blog
 nav: true
 nav_order: 1
