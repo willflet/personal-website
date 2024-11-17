@@ -1,0 +1,64 @@
+import abjad
+
+hymn = [
+    [[5,2],3], [[2,7],1], [[5,2],3], [[7,5],1], [[3,5],10],
+    [[3,5],2], [[4,6],1], [[7,5],2], [[1,6],2], [[2,7],2],
+    [[3,7],1], [[1,6],2], [[2,7],1], [[4,1],1], [[2,4],1], [[3,5],4],
+    [[4,6],1], [[7,5],2], [[1,6],4], [[2,7],1], [[4,1],1], [[7,5],1],
+    [[1,6],4], [[7,5],1], [[1,6],2], [[7,5],1], [[1,6],2], [[2,7],2],
+    [[6,3],2], [[5,2],3], [[6,3],1], [[5,2],4], [[6,3],1], [[5,2],2],
+    [[],1]
+]
+
+pitches = {1:"e''",2:"d''",3:"c''",4:"b'",5:"a'",6:"g'",7:"f'",8:"e'",9:"d'"}
+
+pulse = 0
+staff = abjad.Staff()
+for (interval, beat1), (_, beat2) in zip(hymn, hymn[1:]):
+
+    timing = beat1 - pulse
+    duration = (beat2 - beat1 - 1)%4 + 1
+    if pulse == 0:
+        staff.append(abjad.Rest("r2"))
+        chord = abjad.Chord([], abjad.Duration(duration, 4))
+        staff.append(chord)
+    elif beat1 == 10:
+        beat1 = 1
+        staff.append(abjad.Rest("r1"))
+        chord = abjad.Chord([], abjad.Duration(1, 4))
+        staff.append(chord)
+    elif beat2 == 10:
+        chord = abjad.Chord([], abjad.Duration(4, 4))
+        staff.append(chord)
+        abjad.attach(abjad.Fermata(), staff[-1])
+    elif beat1 == 2 and duration == 4:
+        chord = abjad.Chord([], abjad.Duration(3, 4))
+        staff.append(chord)
+        staff.append(abjad.Rest("r4"))
+    else:
+        chord = abjad.Chord([], abjad.Duration(duration, 4))
+        staff.append(chord)
+
+    first_note = abjad.NoteHead(pitches[interval[0]])
+    chord.note_heads.append(first_note)
+
+    second_note = abjad.NoteHead(pitches[interval[1]])
+    chord.note_heads.append(second_note)
+
+    if interval[0] in (1,2):
+        low_note = abjad.NoteHead(pitches[interval[0]+7])
+        abjad.tweak(low_note).font_size = -3
+        chord.note_heads.append(low_note)
+
+    if interval[1] in (1,2):
+        low_note = abjad.NoteHead(pitches[interval[1]+7])
+        abjad.tweak(low_note).font_size = -3
+        chord.note_heads.append(low_note)
+
+    pulse = beat1
+
+abjad.attach(abjad.LilyPondLiteral(r'\numericTimeSignature'), staff)
+abjad.attach(abjad.TimeSignature((4,4)), staff[0])
+abjad.attach(abjad.BarLine('||'), staff[5])
+abjad.attach(abjad.BarLine('|.'), staff[-1])
+abjad.show(staff)

@@ -1,0 +1,44 @@
+import abjad
+
+chord1 = abjad.Chord("<c'' f'>4") # 2
+abjad.tweak(chord1.note_heads[0]).color = 'grey'
+chord2 = abjad.Chord("<d'' g'>4") # 1
+abjad.tweak(chord2.note_heads[0]).color = 'grey'
+staff = abjad.Staff([chord1, chord2])
+
+repeated = [abjad.Chord("<c'' f'>4"), abjad.Chord("<c'' f'>4"),
+           abjad.Chord("<d'' g'>4")]
+staff.extend(repeated)
+staff.append(abjad.Rest("r4"))
+
+held = [abjad.Chord("<c'' f'>2"), abjad.Chord("<d'' g'>4")]
+staff.extend(held)
+staff.append(abjad.Rest("r4"))
+
+scale1 = [abjad.Note(x) for x in ("c''4", "b'4", "a'4", "g'4", "f'4")]
+staff.extend(scale1)
+scale2 = [abjad.Note(x) for x in ("d''8", "c''8", "b'8", "a'8", "g'8")]
+staff.extend(scale2)
+staff.append(abjad.Rest("r8"))
+
+landing1 = [abjad.Note(x) for x in ("c''8", "b'8", "a'8", "g'8", "f'2")]
+staff.extend(landing1)
+landing2 = [abjad.Note(x) for x in ("d''8", "c''8", "b'8", "a'8", "g'4")]
+staff.extend(landing2)
+staff.append(abjad.Rest("r4"))
+
+truncate = [abjad.Note("c''8"), abjad.Note("b'8"),
+            abjad.Skip("s64"), abjad.Note("d''8")]
+staff.extend(truncate)
+staff.extend([abjad.Rest("r8"), abjad.Rest("r2")])
+
+beats = [abjad.Rest("r4"), abjad.Chord("<c'' f'>4"), abjad.Rest("r2"),
+         abjad.Chord("<d'' g'>4"), abjad.Rest("r4"), abjad.Rest("r2")]
+staff.extend(beats)
+
+abjad.attach(abjad.TimeSignature((2,4)), staff[0])
+abjad.attach(abjad.LilyPondLiteral(r'\numericTimeSignature'), staff)
+four_four = abjad.TimeSignature((4,4))
+abjad.attach(four_four, staff[2])
+
+abjad.show(staff)

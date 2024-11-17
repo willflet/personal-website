@@ -1,0 +1,114 @@
+""" Usage:
+        manim <script.py> -c white -r "700,760"
+"""
+
+from manimlib.scene.scene import Scene
+from manimlib.mobject.geometry import Circle, Line
+from manimlib.mobject.svg.tex_mobject import TexMobject
+from manimlib.mobject.svg.text_mobject import Text
+from manimlib.constants import UP, LEFT, ORIGIN, TAU, BOLD
+from manimlib.animation.rotation import Rotate
+from manimlib.animation.fading import FadeOut, FadeIn
+
+Rotate.CONFIG.update(about_point=ORIGIN)
+
+class ModeCircle(Scene):
+
+    NOTES = [
+        R'\mathsf{C}',
+        R'\mathsf{C}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{D}\flat',
+        R'\mathsf{D}',
+        R'\mathsf{D}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{E}\flat',
+        R'\mathsf{E}',
+        R'\mathsf{F}',
+        R'\mathsf{F}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{G}\flat',
+        R'\mathsf{G}',
+        R'\mathsf{G}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{A}\flat',
+        R'\mathsf{A}',
+        R'\mathsf{A}\raisebox{0.1em}{$\scriptstyle{\sharp}$}/\mathsf{B}\flat',
+        R'\mathsf{B}'
+    ]
+
+    TUNINGS = [
+        R'\textsf{i\v{s}artum}',
+        R'\textsf{qablitum}',
+        R'\textsf{ni\v{s} tu\textipa{\textsubwedge{h}}ri}',
+        R'\textsf{nid qablim}',
+        R'\textsf{pitum}',
+        R'\textsf{emb\=ubum}',
+        R'\textsf{kitmum}',
+    ]
+
+    def __init__(self, *args, **kwargs):
+        kwargs['camera_config'].update(
+            frame_height=7,
+            frame_width=7.6,
+            frame_center=0.25*LEFT
+        )
+        super().__init__(*args, **kwargs)
+
+    def construct(self):
+        self.make_tuning_labels()
+        self.draw_chromatic_circle()
+        self.draw_strings()
+
+        for i, string_nums in enumerate([[5],[1,8],[4],[7],[3],[6],[2,9]]):
+            self.rotate_strings_clockwise(i, string_nums)
+
+        self.rotate_everything_anticlockwise()
+
+    def make_tuning_labels(self):
+        self.tunings = []
+        for name in self.TUNINGS:
+            tuning = TexMobject(R'\scriptstyle{'+name+R'}',
+                fill_color='#e67e22', background_stroke_color='#e67e22')
+            tuning.move_to(3.1*UP + 3*LEFT)
+            self.tunings.append(tuning)
+        self.add(self.tunings[0])
+
+    def draw_chromatic_circle(self):
+        self.circle = Circle(radius=2.0, stroke_color='#ffffff',
+                             fill_color='#505360', fill_opacity=1.0)
+        self.add(self.circle)
+        for pitch_class, note in enumerate(self.NOTES):
+            pitch = TexMobject(R'\scriptstyle{'+note+R'}',
+                fill_color='#b2b4b7', background_stroke_color='#b2b4b7')
+            pitch.move_to(3*UP)
+            pitch.rotate_about_origin(-pitch_class * TAU / 12)
+            self.add(pitch)
+
+    def draw_strings(self):
+        self.strings = {}
+        for i, pitch_class in enumerate([3, 2, 0, 10, 8, 7, 5, 3, 2]):
+            line = Line(start=ORIGIN, end=2*UP,
+                        stroke_color='#ffffff', stroke_width=6)
+            label = Text(str(i+1), color='#222831', font='Lato', weight=BOLD)
+            label.move_to(2.3*UP)
+
+            if i+1 <= 2:
+                line.rotate_about_origin(0.05 * TAU / 12)
+                label.rotate_about_origin(0.15 * TAU / 12)
+            elif i+1 >= 8:
+                line.rotate_about_origin(-0.05 * TAU / 12)
+                label.rotate_about_origin(-0.15 * TAU / 12)
+            line.rotate_about_origin(-pitch_class * TAU / 12)
+            label.rotate_about_origin(-pitch_class * TAU / 12)
+
+            self.add(line)
+            self.add(label)
+            self.strings[i+1] = (line, label)
+
+    def rotate_strings_clockwise(self, i, string_nums):
+        strings = [self.strings[x][0] for x in string_nums]
+        labels = [self.strings[x][1] for x in string_nums]
+        rotations = [Rotate(mobject, -TAU/12) for mobject in strings+labels]
+        fadeout = FadeOut(self.tunings[i], run_time=0.5)
+        fadein = FadeIn(self.tunings[(i+1)%7], run_time=1.0)
+        self.play(fadeout, *rotations, fadein)
+
+    def rotate_everything_anticlockwise(self):
+        rotations = []
+        for string, label in self.strings.values():
+            rotations.extend([Rotate(x, TAU/12) for x in [string, label]])
+        rotations.append(Rotate(self.circle, TAU/12))
+        self.play(*rotations)
