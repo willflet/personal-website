@@ -4,19 +4,62 @@
     style="margin: 20px"
   {% endif %}
 >
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display: none;"></iframe>
   <form
+    accept-charset="UTF-8"
     class="newsletter-form"
-    action="https://app.loops.so/api/newsletter-form/{{ site.newsletter.endpoint }}"
+    action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfDALdTp5L701s9-H_JIOcGgQ7kBydv7uaCNtcNRbN7nxWtyQ/formResponse"
     method="POST"
+    enctype="multipart/form-data"
     target="hidden_iframe"
     style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
+    <label class="newsletter-form-label" required>Name</label>
     <input
       class="newsletter-form-input"
-      name="newsletter-form-input"
+      name="entry.2005620554"
+      type="text"
+      placeholder="name"
+      required
+    >
+
+    <label class="newsletter-form-label" required>Email</label>
+    <input
+      class="newsletter-form-input"
+      name="entry.1045781291"
       type="email"
+      aria-describedby="emailHelp"
       placeholder="user@example.com"
-      required=""
+      required
+    >
+
+    <label class="newsletter-form-label" required>Subject</label>
+    <input
+      class="newsletter-form-input"
+      name="entry.1676351200"
+      type="text"
+      placeholder="subject"
+      required
+    >
+
+    <label class="newsletter-form-label" required>Message</label>
+    <textarea
+      rows="8"
+      class="newsletter-form-input"
+      name="entry.839337160"
+      type="text"
+      placeholder="message"
+      required
+    ></textarea>
+
+    <br>
+    <label class="newsletter-form-label" required>How many planets do humans live on?</label>
+    <input
+      class="newsletter-form-input"
+      name="entry.58717136"
+      type="text"
+      placeholder="(anti-robot check)"
+      required
     >
 
     <button
@@ -24,7 +67,7 @@
       class="newsletter-form-button"
       style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
     >
-      subscribe
+      Send
     </button>
 
     <button
@@ -40,7 +83,7 @@
     class="newsletter-success"
     style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
-    <p class="newsletter-success-message">You're subscribed!</p>
+    <p class="newsletter-success-message">Thanks for getting in touch!</p>
   </div>
 
   <div
@@ -56,7 +99,7 @@
     onmouseout='this.style.textDecoration="none"'
     onmouseover='this.style.textDecoration="underline"'
   >
-    &larr; Back
+    &larr; Back to form
   </button>
 </div>
 
@@ -65,7 +108,6 @@
     event.preventDefault();
     var container = event.target.parentNode;
     var form = container.querySelector('.newsletter-form');
-    var formInput = container.querySelector('.newsletter-form-input');
     var success = container.querySelector('.newsletter-success');
     var errorContainer = container.querySelector('.newsletter-error');
     var errorMessage = container.querySelector('.newsletter-error-message');
@@ -75,9 +117,8 @@
 
     const rateLimit = () => {
       errorContainer.style.display = 'flex';
-      errorMessage.innerText = 'Too many submissions, please wait and try again in a little while';
+      errorMessage.innerText = 'Too many submissions, please try again in a little while';
       submitButton.style.display = 'none';
-      form.style.display = 'none';
       backButton.style.display = 'block';
     };
 
@@ -98,13 +139,11 @@
     loadingButton.style.display = 'flex';
 
     form.submit();
-    console.log(form.style.display);
-
-    success.style.display = 'flex';
     form.style.display = 'none';
+    success.style.display = 'flex';
+    form.reset();
     loadingButton.style.display = 'none';
     backButton.style.display = 'block';
-    console.log(form.style.display);
   }
 
   function resetFormHandler(event) {
@@ -117,17 +156,11 @@
     var backButton = container.querySelector('.newsletter-back-button');
     var submitButton = container.querySelector('.newsletter-form-button');
 
-    console.log('resetting');
-
     success.style.display = 'none';
     errorContainer.style.display = 'none';
     errorMessage.innerText = 'Oops! Something went wrong, please try again';
     backButton.style.display = 'none';
     form.style.display = 'flex';
-
-    console.log(form.style.display);
-
-    form.reset();
     submitButton.style.display = 'flex';
   }
 

@@ -1,0 +1,11 @@
+import abjad
+
+chord = abjad.Chord("<a' d''>4")
+abjad.tweak(chord.note_heads[-1]).color = 'grey'
+staff = abjad.Staff([chord, abjad.Rest('r4')])
+
+scale = [abjad.Note(x) for x in ("a'8", "b'8", "c''8", "d''8")]
+staff.extend(scale)
+
+abjad.attach(abjad.TimeSignature((2,4)), staff[0])
+abjad.show(staff)

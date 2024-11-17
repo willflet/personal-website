@@ -1,0 +1,40 @@
+import abjad
+
+hymn = [
+    [[5,2],3], [[2,7],1], [[5,2],3], [[7,5],1], [[3,5],10],
+    [[3,5],2], [[4,6],1], [[7,5],2], [[1,6],2], [[2,7],2],
+    [[3,7],1], [[1,6],2], [[2,7],1], [[4,1],1], [[2,4],1], [[3,5],4],
+    [[4,6],1], [[7,5],2], [[1,6],4], [[2,7],1], [[4,1],1], [[7,5],1],
+    [[1,6],4], [[7,5],1], [[1,6],2], [[7,5],1], [[1,6],2], [[2,7],2],
+    [[6,3],2], [[5,2],3], [[6,3],1], [[5,2],4], [[6,3],1], [[5,2],2]
+]
+
+pitches = {1:"e''",2:"d''",3:"c''",4:"b'",5:"a'",6:"g'",7:"f'",8:"e'",9:"d'"}
+
+staff = abjad.Staff()
+for (interval, length) in hymn:
+    chord = abjad.Chord([], abjad.Duration(1,4))
+
+    first_note = abjad.NoteHead(pitches[interval[0]])
+    chord.note_heads.append(first_note)
+
+    second_note = abjad.NoteHead(pitches[interval[1]])
+    abjad.tweak(second_note).color = 'grey'
+    chord.note_heads.append(second_note)
+
+    if interval[0] in (1,2):
+        low_note = abjad.NoteHead(pitches[interval[0]+7])
+        abjad.tweak(low_note).font_size = -3
+        chord.note_heads.append(low_note)
+
+    if interval[1] in (1,2):
+        low_note = abjad.NoteHead(pitches[interval[1]+7])
+        abjad.tweak(low_note).font_size = -3
+        abjad.tweak(low_note).color = 'grey'
+        chord.note_heads.append(low_note)
+
+    staff.append(chord)
+
+abjad.attach(abjad.TimeSignature((5,4)), staff[0])
+abjad.attach(abjad.TimeSignature((6,4)), staff[10])
+abjad.show(staff)
