@@ -1,20 +1,23 @@
 ---
-title: "It goes like this: the fourth, the fifth"
+permalink: /blog/the-oldest-song
+layout: post
+title: The oldest song
+heading: "it goes like this: the fourth, the fifth"
 categories:
   - Blog
-excerpt: "An attempted reconstruction of the oldest surviving musical composition. Starting from a 3400 year old clay tablet, how much is guesswork?"
+description: An attempted reconstruction of the oldest surviving musical composition. Starting from a 3400 year old clay tablet, how much is guesswork?
 custom_css:
   - decorations
   - cuneiform
-toc: true
-toc_sticky: true
+toc:
+  sidebar: left
 toc_label: "&nbsp;&nbsp;Contents"
 toc_icon: "music"
 ---
 
-<br />
-The oldest musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg).  
-Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc).
+<link rel="stylesheet" href="/assets/css/cuneiform.css">
+
+The oldest musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg). Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc).
 
 **_Disclaimer_**: _this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.
 <br /><br />
@@ -108,15 +111,15 @@ Both are written phonetically, using Hittite **cuneiform** syllables:
 <table class="table syllabary"><tbody><tr><td><p></p></td><td><p>b</p></td><td><p>p</p></td><td><p>d</p></td><td><p>t</p></td><td><p>g</p></td><td><p>k</p></td><td><p>ḫ</p></td><td><p>l</p></td><td><p>m</p></td><td><p>n</p></td><td><p>r</p></td><td><p>š</p></td><td><p>z</p></td></tr><tr><td><p>-a</p></td><td><p>𒁀</p></td><td><p>𒉺</p></td><td><p>𒁕</p></td><td><p><em>𒋫</em></p></td><td><p>𒂵</p></td><td><p><em>𒅗</em></p></td><td><p><em>𒄩</em></p></td><td><p><em>𒆷</em></p></td><td><p><em>𒈠</em></p></td><td><p>𒈾</p></td><td><p>𒊏</p></td><td><p>𒊭</p></td><td><p>𒍝</p></td></tr><tr><td><p>-e</p></td><td><p>𒁁</p></td><td rowspan="2"><p>𒁉</p></td><td rowspan="2"><p>𒁲</p></td><td><p>𒋼</p></td><td rowspan="2"><p>𒄀</p></td><td rowspan="2"><p>𒆠</p></td><td rowspan="2"><p>𒄭</p></td><td rowspan="2"><p><em>𒇷</em></p></td><td><p><em>𒈨</em></p></td><td><p><span style="font-size:90%;">𒉈</span></p></td><td rowspan="2"><p>𒊑</p></td><td><p>𒊺</p></td><td rowspan="2"><p>𒍣</p></td></tr><tr><td><p>-i</p></td><td><p>𒁉</p></td><td><p>𒋾</p></td><td><p>𒈪</p></td><td><p><em>𒉌</em></p></td><td><p>𒅆</p></td></tr><tr><td><p>-u</p></td><td colspan="2"><p>𒁍</p></td><td><p>𒁺</p></td><td><p>𒌅</p></td><td><p>𒄖</p></td><td><p>𒆪</p></td><td><p>𒄷</p></td><td><p>𒇻</p></td><td><p>𒈬</p></td><td><p>𒉡</p></td><td><p>𒊒</p></td><td><p>𒋗</p></td><td><p>𒍪</p></td></tr><tr><td><p>a-</p></td><td colspan="2"><p>𒀊</p></td><td colspan="2"><p>𒀜</p></td><td colspan="2"><p>𒀝</p></td><td rowspan="4"><p>𒄴</p></td><td><p><em>𒀠</em></p></td><td><p>𒄠</p></td><td><p>𒀭</p></td><td><p>𒅈</p></td><td><p>𒀸</p></td><td><p>𒊍</p></td></tr><tr><td><p>e-</p></td><td colspan="2" rowspan="2"><p><em>𒅁</em></p></td><td colspan="2" rowspan="2"><p>𒀉</p></td><td colspan="2" rowspan="2"><p>𒅅</p></td><td><p>𒂖</p></td><td rowspan="2"><p>𒅎</p></td><td><p>𒂗</p></td><td rowspan="2"><p>𒅕</p></td><td><p>𒌍</p></td><td rowspan="2"><p>𒄑</p></td></tr><tr><td><p>i-</p></td><td><p><span style="font-size:80%;"><em>𒅋</em></span></p></td><td><p>𒅔</p></td><td><p>𒅖</p></td></tr><tr><td><p>u-</p></td><td colspan="2"><p>𒌒</p></td><td colspan="2"><p>𒌓</p></td><td colspan="2"><p><em>𒊌</em></p></td><td><p>𒌌</p></td><td><p>𒌝</p></td><td><p>𒌦</p></td><td><p>𒌨</p></td><td><p>𒍑</p></td><td><p>𒊻</p></td></tr></tbody></table>
 
 <!-- |:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|    | b | p | d | t | g | k | ḫ | l | m | n | r | š | z |
-| -a |𒁀|𒉺|𒁕|*𒋫*|𒂵|*𒅗*|*𒄩*|*𒆷*|*𒈠*|𒈾|𒊏|𒊭|𒍝|
-| -e |𒁁|𒁉|𒁲|𒋼 |𒄀|𒆠|𒄭|*𒇷*|*𒈨*|<span style="font-size:90%;">𒉈</span>|𒊑|𒊺 |𒍣|
-| -i |𒁉|^^ |^^ |𒋾|^^ |^^ |^^ |^^ |𒈪|*𒉌*|^^|𒅆|^^ |
-| -u |  𒁍 ||𒁺|𒌅|𒄖|𒆪 |𒄷 |𒇻 |𒈬 |𒉡 |𒊒 |𒋗 |𒍪 |
-| a- |  𒀊  ||  𒀜 ||  𒀝 ||𒄴|*𒀠*|𒄠|𒀭|𒅈|𒀸|𒊍|
-| e- | *𒅁* ||  𒀉  || 𒅅 ||^^ |𒂖|𒅎|𒂗 |𒅕|𒌍| 𒄑 |
-| i- |  ^^  ||  ^^  ||  ^^  ||^^|<span style="font-size:80%;">*𒅋*</span>|^^|𒅔|^^|𒅖|^^ |
-| u- |  𒌒  ||  𒌓  ||*𒊌*||^^ |𒌌|𒌝|𒌦|𒌨|𒍑|𒊻|
+| | b | p | d | t | g | k | ḫ | l | m | n | r | š | z |
+| -a |𒁀|𒉺|𒁕|_𒋫_|𒂵|_𒅗_|_𒄩_|_𒆷_|_𒈠_|𒈾|𒊏|𒊭|𒍝|
+| -e |𒁁|𒁉|𒁲|𒋼 |𒄀|𒆠|𒄭|_𒇷_|_𒈨_|<span style="font-size:90%;">𒉈</span>|𒊑|𒊺 |𒍣|
+| -i |𒁉|^^ |^^ |𒋾|^^ |^^ |^^ |^^ |𒈪|_𒉌_|^^|𒅆|^^ |
+| -u | 𒁍 ||𒁺|𒌅|𒄖|𒆪 |𒄷 |𒇻 |𒈬 |𒉡 |𒊒 |𒋗 |𒍪 |
+| a- | 𒀊 || 𒀜 || 𒀝 ||𒄴|_𒀠_|𒄠|𒀭|𒅈|𒀸|𒊍|
+| e- | _𒅁_ || 𒀉 || 𒅅 ||^^ |𒂖|𒅎|𒂗 |𒅕|𒌍| 𒄑 |
+| i- | ^^ || ^^ || ^^ ||^^|<span style="font-size:80%;">_𒅋_</span>|^^|𒅔|^^|𒅖|^^ |
+| u- | 𒌒 || 𒌓 ||_𒊌_||^^ |𒌌|𒌝|𒌦|𒌨|𒍑|𒊻|
 {: .table .syllabary} -->
 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -191,7 +194,7 @@ Left-aligned text corresponds to the front of the tablet, and right-aligned the 
 |---|
 | <span style="font-family:LatoWeb;font-weight:300;">[</span>𒀭𒉡<span style="font-family:LatoWeb;font-weight:300;">]</span>𒌑 𒍝𒄠*𒈠*𒀸 𒊭 *𒉌*𒀉𒄒*𒇷* 𒍝𒇻𒍣 <span style="font-family:LatoWeb;font-weight:300;">XXXXXX</span> 𒋗 𒁹𒄠𒈬𒊏𒁉 |
 | [an-nu]-ú za-am-ma-rum ša ni-id-kib-li za-l[u]-z[i] xxxxxx šu <sup style="">I</sup>am-mu-ra-bi |
-| <span style="font-family:LatoWeb;font-weight:normal;"> This is a song in **nīd qablim**, a _zaluzi_ [by ..., scribed] by Ammurabi</span>|
+| <span style="font-family:LatoWeb;font-weight:light;"> This is a song in **nīd qablim**, a _zaluzi_ [by ..., scribed] by Ammurabi</span>|
 {: .table .align-center .transliteration .translation}
 
 # Context for the notation
@@ -256,7 +259,7 @@ We might as well stick to numbers from now on, so the hymn's notation becomes:
 | 6 |^^ | 5 |^^ | 6 |^^ | 5 |^^ | 6 | ^^ | 7  | ^^ | ^^ | ^^ |
 | 6 |*2*| 5 |*3*| 6 |*1*| 5 |*4*| 6 |*1* | 5  |*2* |    |    |
 | 3 |^^ | 2 |^^ | 3 |^^ | 2 |^^ | 3 | ^^ | 2  | ^^ | ^^ | ^^ |
-{: .table .align-center .tablature style="width: 60%"} -->
+{: .table .align-center .tablature style="width: 80%"} -->
 
 So far, so good, but a long way from playable music.
 
@@ -658,7 +661,7 @@ If you would like to reach me with a comment or request, please use the [contact
 **Musical score.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/images/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
 {: .license-text}
 
-**1\.** _[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_İnandık_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_İnandıktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26414472886).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)_
+**1\.** *[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The*İnandık*vase,\_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,\_mid_17th_century,\_found_in*İnandıktepe,_Museum_of_Anatolian_Civilizations,\_Ankara_(26414472886).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)\_
 
 **2\.** _[Portion](/assets/images/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
 

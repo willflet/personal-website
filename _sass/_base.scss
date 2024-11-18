@@ -546,6 +546,12 @@ footer.sticky-bottom {
   }
 }
 
+.post-heading {
+  mjx-container[jax="CHTML"][display="true"] {
+    display: unset;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
