@@ -1,7 +1,7 @@
 ---
 permalink: /blog/the-oldest-song
 layout: distill
-title: The oldest song
+title: 🎵 The oldest song
 heading: "it goes like this: the fourth, the fifth"
 categories:
   - Blog

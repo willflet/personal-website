@@ -196,7 +196,7 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     margin-top: 5px;
     font-family: monospace;
 
@@ -1202,6 +1202,7 @@ ninja-keys::part(ninja-input-wrapper) {
   display: flex;
   width: min-content;
   max-width: 100%;
+  min-width: 100px;
   white-space: nowrap;
   height: 38px;
   align-items: center;
@@ -1224,6 +1225,7 @@ ninja-keys::part(ninja-input-wrapper) {
   display: none;
   width: min-content;
   max-width: 100%;
+  min-width: 100px;
   white-space: nowrap;
   height: 38px;
   align-items: center;
@@ -1245,6 +1247,7 @@ ninja-keys::part(ninja-input-wrapper) {
   display: none;
   align-items: center;
   max-width: 100%;
+  min-width: 100px;
 }
 
 .newsletter-error {
@@ -1252,6 +1255,7 @@ ninja-keys::part(ninja-input-wrapper) {
   display: none;
   align-items: center;
   max-width: 100%;
+  min-width: 100px;
 }
 
 .newsletter-back-button {
@@ -1259,6 +1263,7 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-bg-color);
   width: min-content;
   max-width: 100%;
+  min-width: 100px;
   white-space: nowrap;
   height: 38px;
   align-items: center;
