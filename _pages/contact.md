@@ -5,7 +5,7 @@ title: contact
 heading: contact me
 description: 🪶 Complete this form to send me an email. 🪶
 nav: true
-nav_order: 7
+nav_order: 4
 contact: true
 social: true
 

@@ -4,6 +4,7 @@ layout: about
 title: about
 heading: about me
 nav: true
+nav-order: 1
 description: 🪶 Tech. Science. Maths. Music. People. Planet. 🪶
 
 profile:
@@ -23,8 +24,8 @@ latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
-Will studied Chemistry at [Oxford University](https://www.chem.ox.ac.uk), and Computational Statistics and Machine Learning at [UCL](http://www.csml.ucl.ac.uk). He has worked as a Machine Learning Scientist, Researcher, Engineer, and Leader.
+I studied Chemistry at [Oxford University](https://www.chem.ox.ac.uk), and Computational Statistics and Machine Learning at [UCL](http://www.csml.ucl.ac.uk). I have worked as a Machine Learning Scientist, Researcher, Engineer, and Leader.
 
-He also plays trumpet with various groups in South London.
+I also play trumpet with various groups in South London.
 
-You can reach him through the [contact page](/contact)
+You can reach me through the [contact page](/contact)
