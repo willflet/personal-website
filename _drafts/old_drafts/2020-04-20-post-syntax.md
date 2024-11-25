@@ -49,7 +49,7 @@ If you're intrigued like I have been, then read on...
 # Background
 
 ## Communicating with colour
-Though ubiquitous in programming, syntax highlighting is far less common in other areas. Probably the next best examples are links ([www.bayesiansaddles.com](https://www.bayesiansaddles.com)), or those squiggly lines you get under <span class="spelling text-error">misspeled</span> words. The idea is that the differences in formatting convey some important information.
+Though ubiquitous in programming, syntax highlighting is far less common in other areas. Probably the next best examples are links ([willflet.ch](https://willflet.ch)), or those squiggly lines you get under <span class="spelling text-error">misspeled</span> words. The idea is that the differences in formatting convey some important information.
 
 Unfortunately, we've waded straight into hot water with this premise. Since syntax highlighting is dependent on the text, it is technically *redundant*. Nothing new is communicated. All the information contained in formatting is already in the text itself; the colours just emphasize something we should already know: the language we're using.
 
@@ -77,7 +77,7 @@ Some instruments also incorporate the colours by design:
 There is evidence to support the use of colour in both [music](https://en.wikipedia.org/wiki/Colored_music_notation) and [programming](https://www.researchgate.net/publication/293652017_The_impact_of_syntax_colouring_on_program_comprehension), showing that beginners do read with colour more fluently and make fewer mistakes compared to reading without it. The same is true for spellchecking. But among professional musicians the world is notably monochrome – while programming remains as colourful as ever. Why these differences?
 
 ## Power users
-In a field that usually likes to see things reduced to the bare bones, this is a notable affectation. And it's not as if there's a standard, either. Even if everyone on a team uses the same editor, font, and style conventions (rare given the choice), you might see them each using different colour palettes to suit individual preferences. And, yes, there are some who [eschew highlighting altogether](https://www.robertmelton.com/posts/syntax-highlighting-off/). But most programmers do work in colour, not least because editing software tends to highlight by default.
+In a field that usually likes to see things reduced to the bare bones, this is a notable affectation. And it's not as if there's a standard, either. Even if everyone on a team uses the same editor, font, and style conventions (rare given the choice), you might see them each using different colour palettes to suit individual preferences. And, yes, there are some who [eschew highlighting altogether](https://www.simn.me/blog/posts/2023/syntax-highlighting/). But most programmers do work in colour, not least because editing software tends to highlight by default.
 
 It's easy to answer why trained musicians *aren't* drowning in rainbows. But what about the opposite question: why is programming so colourful even among elites?
 

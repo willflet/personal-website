@@ -43,7 +43,7 @@ Including: statistical learning theory, training and model selection, parameters
 multitask and metalearning, sparsity considerations.
 
 </blockquote></details>
-<details><summary markdown="span">*Probabilistic & Unsupervised Learning* ([Gatsby](https://gatsby.ucl.ac.uk))
+<details><summary markdown="span">*Probabilistic & Unsupervised Learning* ([Gatsby](https://www.ucl.ac.uk/gatsby/))
 </summary><blockquote class="trimb" markdown="block">
 Techniques for understanding and discovering structure in unpaired data.
 
@@ -91,7 +91,7 @@ Including: recurrent units, convolutions, attention and memory, generative model
 ## Oxford University
 ### *DPhil Inorganic Chemistry (incomplete)*
 <blockquote class="trimb">
-<p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">Supervisor: [Prof. Andrew Goodwin](http://research.chem.ox.ac.uk/andrew-goodwin.aspx)</p>
+<p style="margin-top: 1.25em; margin-bottom: 1em;" markdown="span">Supervisor: [Prof. Andrew Goodwin](https://goodwingroupox.uk/)</p>
 
 <!-- <details><summary markdown="span">Research
 </summary><blockquote class="trimb">
