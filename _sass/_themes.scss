@@ -95,8 +95,8 @@ html[data-theme="dark"] {
     0.5
   );
   --global-back-to-top-text-color: #{$black-color};
-  --global-newsletter-bg-color: #{$grey-color-light};
-  --global-newsletter-text-color: #{$grey-color-dark};
+  --global-newsletter-bg-color: #{$grey-color-dark};
+  --global-newsletter-text-color: #{$grey-color-light};
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;

@@ -112,12 +112,21 @@ d-article {
         font-weight: bold;
       }
       ul {
-        padding-left: 1em;
+        padding-left: 0em;
         margin-top: 0;
         margin-bottom: 6px;
         list-style-type: none;
         li {
           margin-bottom: 0.25em;
+        }
+      }
+
+      & > ul > li {
+        > a {
+          font-weight: bold;
+        }
+        ul > li {
+          padding-left: 1em;
         }
       }
     }
