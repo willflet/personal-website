@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <span class="font-weight-bold">William</span>🪶Fletcher # the website title (if blank, full name will be used instead)
+title: William Fletcher # the website title (if blank, full name will be used instead)
+title-styled: <span class="font-weight-bold">William</span>🪶Fletcher
 first_name: William
 middle_name:
 last_name: Fletcher

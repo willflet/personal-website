@@ -98,6 +98,7 @@
     type="button"
     onmouseout='this.style.textDecoration="none"'
     onmouseover='this.style.textDecoration="underline"'
+    style="justify-content: {% if include.left %}flex-start{% elsif include.right %}flex-end{% else %}center{% endif %}"
   >
     &larr; Back to form
   </button>

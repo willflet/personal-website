@@ -3,7 +3,7 @@ permalink: /contact/
 layout: contact
 title: contact
 heading: contact me
-description: 📜 Complete this form to send me an email. 📜
+description: 🪶 Complete this form to send me an email. 🪶
 nav: true
 nav_order: 7
 contact: true

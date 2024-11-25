@@ -4,7 +4,7 @@ layout: about
 title: about
 heading: about me
 nav: true
-description: 💚 Tech. Science. Maths. Music. People. Planet. 💚
+description: 🪶 Tech. Science. Maths. Music. People. Planet. 🪶
 
 profile:
   align: right

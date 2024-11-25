@@ -15,8 +15,6 @@ toc_label: "&nbsp;&nbsp;Contents"
 toc_icon: "music"
 ---
 
-<link rel="stylesheet" href="/assets/css/cuneiform.css">
-
 The oldest musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg). Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc).
 
 **_Disclaimer_**: _this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.
@@ -24,11 +22,11 @@ The oldest musical composition, and why it doesn't sound like [this](https://www
 Image attributions can be found at the [end of the article](#image-attributions)_
 {: .notice--warning}
 
-![Cuneiform impressions](/assets/images/posts/hurrian/banner1.jpg){: .align-center .framed .poem-banner-top}
+![Cuneiform impressions](/assets/img/posts/hurrian/banner1.jpg){: .align-center .framed .poem-banner-top}
 
-![Intervals in h6](/assets/images/posts/hurrian/score.png){: .align-center style="width:62%;"}
+![Intervals in h6](/assets/img/posts/hurrian/score.png){: .align-center style="width:62%;"}
 
-![Cuneiform impressions](/assets/images/posts/hurrian/banner2.jpg){: .align-center .framed .poem-banner-bottom}
+![Cuneiform impressions](/assets/img/posts/hurrian/banner2.jpg){: .align-center .framed .poem-banner-bottom}
 
 # Ancient music
 
@@ -36,7 +34,7 @@ In the Middle Eastern Bronze Age, the 14th century BCE, four hundred years befor
 
 Art from the era depicts musicians in high society, with an extensive range of instruments: drums, cymbals, pipes, horns, lyres and harps, even lutes. Scholars write complex treatises on musical theory, kings and queens are given ornate instruments as gifts, and children of the literate classes get musical education.
 
-[![İnandık vase](/assets/images/posts/hurrian/inandik.jpg){: .align-center .framed style="width: 60%;"}](/assets/images/posts/hurrian/inandik.jpg)
+[![İnandık vase](/assets/img/posts/hurrian/inandik.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/inandik.jpg)
 1\. &nbsp; a hittite vase from <span style="font-size:75%;">17</span>th century bce anatolia, modern turkey
 {: .caption}
 
@@ -48,7 +46,7 @@ But let's stay at this particular date, around 1400 BCE.
 
 One specific tablet from this time, a text found in northern coastal Syria, has been identified as the oldest surviving musical composition. It is known as [**Hurrian hymn _h.6_**](https://en.wikipedia.org/wiki/Hurrian_songs). Researchers have of course been inspired to recreate the music, but there simply isn't enough to go on, and attempts so far have been... speculative at best.
 
-[![Tablet bearing h.6](/assets/images/posts/hurrian/h6_front.jpg){: .align-center .framed style="width: 90%;"}](/assets/images/posts/hurrian/h6_front.jpg)
+[![Tablet bearing h.6](/assets/img/posts/hurrian/h6_front.jpg){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/h6_front.jpg)
 2\. &nbsp; front of h.<span style="font-size:75%;">6</span> tablet
 {: .caption}
 
@@ -69,7 +67,7 @@ The tablet containing _h.6_ was found in excavations of **Ugarit**, which by the
 
 Ugarit is at the north end of the Syrian coastal plain, which is bounded by Mount Lebanon to the south and a smaller mountain range to the east. Access to the continent was through a nearby pass, with the then-declining kingdom of Mitanni found inland in Upper Mesopotamia, and the Hittite Empire to the north in Anatolia.
 
-[![Map of the Middle East, 14th century BCE](/assets/images/posts/hurrian/map.png){: .align-center .framed style="width: 90%;"}](/assets/images/posts/hurrian/map.png)
+[![Map of the Middle East, 14th century BCE](/assets/img/posts/hurrian/map.png){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/map.png)
 3\. &nbsp; ugarit and surrounding powers, <span style="font-size:75%;">14</span>th century bce
 {: .caption}
 
@@ -81,7 +79,7 @@ Being at the crossroads of north-south and land-sea trade routes, Ugarit accommo
 
 Our hymn is one of 36 hymns found at the site in the **Hurrian** language, and is the most complete of the collection. It is addressed to [Nikkal](https://en.wikipedia.org/wiki/Ningal), a cross-cultural goddess of fruit and fertility, mother of the sun god, and wife of the moon god.
 
-[![Ruins of Ugarit](/assets/images/posts/hurrian/ugarit.jpg){: .align-center .framed style="width: 70%;"}](/assets/images/posts/hurrian/ugarit.jpg)
+[![Ruins of Ugarit](/assets/img/posts/hurrian/ugarit.jpg){: .align-center .framed style="width: 70%;"}](/assets/img/posts/hurrian/ugarit.jpg)
 4\. &nbsp; ruins of ugarit in the present day
 {: .caption}
 
@@ -140,7 +138,7 @@ Then, when **Hittites** adopted the script in their language, they in turn used 
 
 You can have a go at it yourself using the table above and photograph below.
 
-[![Tablet bearing h.6](/assets/images/posts/hurrian/h6.jpg){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/h6.jpg)
+[![Tablet bearing h.6](/assets/img/posts/hurrian/h6.jpg){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/h6.jpg)
 5\. &nbsp; tablet bearing hurrian hymn h.<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -205,7 +203,7 @@ To the untrained eye, this doesn't look much like music. However, there's someth
 
 They correspond to words from another tablet, [CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475). This tablet isn't exactly from the same place (it was found in Nippur, Lower Mesopotamia) but the terminology pops up in quite a few texts over a wide area and timespan.
 
-[![CBS10996, the interval text](/assets/images/posts/hurrian/cbs10996.jpg){: .align-center .framed style="width: 60%;"}](/assets/images/posts/hurrian/cbs10996.jpg)
+[![CBS10996, the interval text](/assets/img/posts/hurrian/cbs10996.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/cbs10996.jpg)
 6\. &nbsp; tablet cbs <span style="font-size:75%;">10996</span>, the "interval text"
 {: .caption}
 
@@ -236,7 +234,7 @@ Parentheses ( ) indicate that the term is not clearly found in _h.6_; reconstruc
 The intervals span 3, 4, 5, or 6 strings. Those that span 4 or 5 (shown in orange below) are often referred to as the 'primary' intervals
 {: .notice--primary}
 
-[![The intervals of Akkadian music notation](/assets/images/posts/hurrian/intervals.png){: .align-center .framed style="width: 35%;"}](/assets/images/posts/hurrian/intervals.png)
+[![The intervals of Akkadian music notation](/assets/img/posts/hurrian/intervals.png){: .align-center .framed style="width: 35%;"}](/assets/img/posts/hurrian/intervals.png)
 7\. &nbsp; intervals between strings as listed in cbs <span style="font-size:75%;">10996</span>
 {: .caption}
 
@@ -267,7 +265,7 @@ In the immediate aftermath the harp's discovery, that was all there was to go on
 
 Today we can do better thanks to other tablets, though there is still a lot of wiggle room. The next sure step we can take is determining how the strings should _sound_.
 
-[![Golden lyre of Ur](/assets/images/posts/hurrian/lyre.jpg){: .align-center .framed style="width: 50%;"}](/assets/images/posts/hurrian/lyre.jpg)
+[![Golden lyre of Ur](/assets/img/posts/hurrian/lyre.jpg){: .align-center .framed style="width: 50%;"}](/assets/img/posts/hurrian/lyre.jpg)
 8\. &nbsp; the [golden lyre of ur](https://en.wikipedia.org/wiki/Lyres_of_Ur), without its strings
 {: .caption}
 
@@ -313,7 +311,7 @@ On the evidence so far, most agree only one possibility reasonably fits: that th
 It's hard to know what absolute pitch they would have tuned to, but I've made a tactical choice of using **D** for string **9** (the _lowest_ string) throughout the cycle.
 {: .notice--primary}
 
-[<video autoplay loop muted><source src="/assets/images/posts/hurrian/ModeCircle.mp4" type="video/mp4"></source></video>{: .align-center .framed style="width:70%;margin-bottom:0.5em;"}](/assets/images/posts/hurrian/ModeCircle.mp4)
+[<video autoplay loop muted><source src="/assets/img/posts/hurrian/ModeCircle.mp4" type="video/mp4"></source></video>{: .align-center .framed style="width:70%;margin-bottom:0.5em;"}](/assets/img/posts/hurrian/ModeCircle.mp4)
 9\. &nbsp; the tunings of the nine-string lyre
 {: .caption}
 
@@ -345,7 +343,7 @@ After all that deciphering, where are we? Well, if we're hoping to perform the h
 1. Reconstruct a harp or lyre tuned to **nīd qablim**, and
 2. Read the word-based notation as a series of string pairs.
 
-[![The interval skeleton of h.6](/assets/images/posts/hurrian/score.png){: .align-center .framed style="width: 80%;"}](/assets/images/posts/hurrian/score.png)
+[![The interval skeleton of h.6](/assets/img/posts/hurrian/score.png){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/score.png)
 10\. &nbsp; the interval skeleton underpinning h<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -370,7 +368,7 @@ The argument centres around a lack of evidence for polyphony anywhere in the wor
 
 After unpitched percussion, the earliest (prehistoric) music would obviously have been monophonic, but had **harmony** developed by 1400 BCE?
 
-[![Prehistoric flute](/assets/images/posts/hurrian/paleolithic_flute.jpg){: .align-center .framed style="width: 80%;"}](/assets/images/posts/hurrian/paleolithic_flute.jpg)
+[![Prehistoric flute](/assets/img/posts/hurrian/paleolithic_flute.jpg){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/paleolithic_flute.jpg)
 11\. &nbsp; flute from swabia dated to around <span style="font-size:75%;">35,000</span> bce
 {: .caption}
 
@@ -380,7 +378,7 @@ And they do have a point.
 
 If the intervals are harmonic, why are they listed with a mixture of low-string-first and high-string-first in CBS 10996? Even if this isn't meaningful, it's odd enough that it begs a different explanation.
 
-[![Harmonic and melodic intervals](/assets/images/posts/hurrian/scale.png){: .align-center .framed style="width: 60%;"}](/assets/images/posts/hurrian/scale.png)
+[![Harmonic and melodic intervals](/assets/img/posts/hurrian/scale.png){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/scale.png)
 12\. &nbsp; interval **<span style="font-size:75%;">5</span>–<span style="font-size:75%;">2</span>** treated as a two-note chord and a scale
 {: .caption}
 
@@ -429,7 +427,7 @@ The only accessible possibility, it seems, is to read the numbers as an indicato
 
 There are a few variants of this idea:
 
-[![Rhythmic interpretations](/assets/images/posts/hurrian/rhythms.png){: .align-center .framed style="width: 80%;"}](/assets/images/posts/hurrian/rhythms.png)
+[![Rhythmic interpretations](/assets/img/posts/hurrian/rhythms.png){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/rhythms.png)
 13\. &nbsp; possible rhythmic interpretations of the numbers
 {: .caption}
 
@@ -453,7 +451,7 @@ It may be that the notation is more like a [chord sheet](https://en.wikipedia.or
 
 A guiding principle is whether the result sounds convincing: a human artistic work rather than a jumble of sound. But then again, who's to say the music was ever any good?
 
-[![Child covering ears](/assets/images/posts/hurrian/covering_ears.jpg){: .align-center .framed style="width: 60%;"}](/assets/images/posts/hurrian/covering_ears.jpg)
+[![Child covering ears](/assets/img/posts/hurrian/covering_ears.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/covering_ears.jpg)
 14\. &nbsp; not all noises are pleasant
 {: .caption}
 
@@ -505,13 +503,13 @@ The video game [Civilization V](https://en.wikipedia.org/wiki/Civilization_V), n
 
 Of the published arrangements of _h.6_ that I've seen or heard, all are constructed from the ideas laid out earlier. The various combinations can be summarized in a matrix:
 
-[![Interpretations](/assets/images/posts/hurrian/interpretations.png){: .align-center .framed style="width: 90%;"}](/assets/images/posts/hurrian/interpretations.png)
+[![Interpretations](/assets/img/posts/hurrian/interpretations.png){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/interpretations.png)
 15\. &nbsp; interpretations by their treatment of the intervals and numbers
 {: .caption}
 
 For example, Anglo-French archaeomusicologist **Richard Dumbrill** opts to render all the primary intervals as descending scales of five notes, and all the secondary ones as three. He uses the numbers to determine the duration of each bar's final note (rhythm interpretation **d**).
 
-[![Dumbrill's interpretation](/assets/images/posts/hurrian/dumbrill.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/dumbrill.png)
+[![Dumbrill's interpretation](/assets/img/posts/hurrian/dumbrill.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/dumbrill.png)
 16\. &nbsp; an arrangement following dumbrill's <span style="font-size:75%;">1998</span> scheme for interpreting h<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -526,7 +524,7 @@ Structure (aesthetics) ★★★☆☆
 
 Meanwhile, eminent classicist **Martin Litchfield West** chooses to ignore the first string from every interval, and uses the numbers as indications to repeat (rhythm interpretation **a**).
 
-[![West's interpretation](/assets/images/posts/hurrian/west.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/west.png)
+[![West's interpretation](/assets/img/posts/hurrian/west.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/west.png)
 17\. &nbsp; an arrangement following west's <span style="font-size:75%;">1993</span> scheme for interpreting h<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -539,7 +537,7 @@ Structure (aesthetics) ★☆☆☆☆
 
 Italo-Syrian archaeomusicologist **Raoul Gregory Vitale**, born less than 10km from Ugarit, has every reason to add his own thoughts. And indeed he does, using rhythm interpretation **c** and unmodified scales:
 
-[![Vitale's interpretation](/assets/images/posts/hurrian/vitale.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/vitale.png)
+[![Vitale's interpretation](/assets/img/posts/hurrian/vitale.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/vitale.png)
 18\. &nbsp; arrangement of h<span style="font-size:75%;">6</span> by raoul gregory vitale, <span style="font-size:75%;">1982</span>
 {: .caption}
 
@@ -552,7 +550,7 @@ Structure (aesthetics) ★★☆☆☆
 
 American composer **Joe Monzo** posted [this message](http://www.tonalsoft.com/monzo/babylonian/hurrian/monz-h6.aspx) on an discussion board in 2000. His version uses plain chords and rhythm interpretation **b**.
 
-[![Monzo's interpretation](/assets/images/posts/hurrian/monzo.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/monzo.png)
+[![Monzo's interpretation](/assets/img/posts/hurrian/monzo.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/monzo.png)
 19\. &nbsp; an arrangement following monzo's <span style="font-size:75%;">2000</span> scheme for interpreting h<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -565,7 +563,7 @@ Structure (aesthetics) ★☆☆☆☆
 
 **Theo Krispijn**, the academic who not only transcribed _h.6_ in the form shown earlier but also gave its most complete translation, has produced a linguistically sensitive arrangement with a simple chords-and-repeats reading of the tablet.
 
-[![Krispijn's interpretation](/assets/images/posts/hurrian/krispijn.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/krispijn.png)
+[![Krispijn's interpretation](/assets/img/posts/hurrian/krispijn.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/krispijn.png)
 20\. &nbsp; arrangement of h<span style="font-size:75%;">6</span> by theo krispijn
 {: .caption}
 
@@ -582,7 +580,7 @@ I might as well put forward a version of my own.
 
 I've taken rhythm interpretation **f**, which interprets the numbers as beats in 4/4 time, along with unmodified intervals as chords. To make this work I only had to resolve one issue, interpreting the number _10_ (with _uš-ta-ma-a-ri_) figuratively, as a pause before.
 
-[![My interpretation](/assets/images/posts/hurrian/fletcher.png){: .align-center .framed style="width: 100%;"}](/assets/images/posts/hurrian/fletcher.png)
+[![My interpretation](/assets/img/posts/hurrian/fletcher.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/fletcher.png)
 21\. &nbsp; my arrangement of h<span style="font-size:75%;">6</span>
 {: .caption}
 
@@ -652,49 +650,49 @@ If you would like to reach me with a comment or request, please use the [contact
 
 **Banners.** _(Portions from photographs of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)):_
 
-<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/images/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work._
+<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work._
 {: style="margin-top:-1em;"}
 
-<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/images/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work._
+<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work._
 {: style="margin-top:-1em;"}
 
-**Musical score.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/images/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
+**Musical score.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
 {: .license-text}
 
 **1\.** \*[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)\_
 
-**2\.** _[Portion](/assets/images/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
+**2\.** _[Portion](/assets/img/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
 
 **3\.** _Modified from [original plot by Alexikoua](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_ca.svg) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-Derivative work [<span rel="http://purl.org/dc/terms/title">Middle East in 14th century BCE</span>](/assets/images/posts/hurrian/map.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
+Derivative work [<span rel="http://purl.org/dc/terms/title">Middle East in 14th century BCE</span>](/assets/img/posts/hurrian/map.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
 {: .license-text}
 
 **4\.** _[Photograph](https://www.flickr.com/photos/128659407@N02/42415116791) by [Jiří Suchomel](https://www.flickr.com/photos/128659407@N02/) shared under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
 
 **5\.** _Photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
 
-**6\.** _[Portion](/assets/images/posts/hurrian/cbs10996.jpg) of [photograph of CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475) by [CDLI](https://cdli.ucla.edu) staff / [Penn Museum](https://www.penn.museum/)_
+**6\.** _[Portion](/assets/img/posts/hurrian/cbs10996.jpg) of [photograph of CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475) by [CDLI](https://cdli.ucla.edu) staff / [Penn Museum](https://www.penn.museum/)_
 
-**7\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Intervals</span>](/assets/images/posts/hurrian/intervals.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
+**7\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Intervals</span>](/assets/img/posts/hurrian/intervals.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
 {: .license-text}
 
 **8\.** _[Photograph](https://www.flickr.com/photos/126377022@N07/14580966009/) of an illustration from "Ur excavations" (1900), contributed by Umass Amherst Libraries to [The Commons](https://www.flickr.com/commons/usage/) on Flickr_
 
-**9\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Tunings</span>](/assets/images/posts/hurrian/ModeCircle.mp4){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/animation_tunings.py.txt) and the [manim](https://github.com/3b1b/manim) library:_
+**9\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Tunings</span>](/assets/img/posts/hurrian/ModeCircle.mp4){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/animation_tunings.py.txt) and the [manim](https://github.com/3b1b/manim) library:_
 {: .license-text}
 
-**10\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/images/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
+**10\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
 {: .license-text}
 
 **11\.** _[Image by José-Manuel Benito Álvarez](https://commons.wikimedia.org/wiki/File:Flauta_paleolítica.jpg) reproduced under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)_
 
-**12\.** _Original work [<span rel="http://purl.org/dc/terms/title">Chord and scale</span>](/assets/images/posts/hurrian/scale.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/chord_vs_scale.py.txt) and the [abjad](https://abjad.github.io/) library_
+**12\.** _Original work [<span rel="http://purl.org/dc/terms/title">Chord and scale</span>](/assets/img/posts/hurrian/scale.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/chord_vs_scale.py.txt) and the [abjad](https://abjad.github.io/) library_
 
-**13\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interval rhythms</span>](/assets/images/posts/hurrian/rhythms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/rhythms.py.txt) and the [abjad](https://abjad.github.io/) library_
+**13\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interval rhythms</span>](/assets/img/posts/hurrian/rhythms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/rhythms.py.txt) and the [abjad](https://abjad.github.io/) library_
 
 **14\.** _[Image by Luis Miguel Bugallo Sánchez](https://commons.wikimedia.org/wiki/File:Ruído_Noise_041113GFDL.JPG), in the public domain_
 
-**15\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interpretations matrix</span>](/assets/images/posts/hurrian/interpretations.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
+**15\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interpretations matrix</span>](/assets/img/posts/hurrian/interpretations.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
 
 **16\.** _Arrangement following Richard Dumbrill's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_dumbrill.py.txt) and the [abjad](https://abjad.github.io/) library_
 
@@ -706,4 +704,4 @@ Derivative work [<span rel="http://purl.org/dc/terms/title">Middle East in 14th 
 
 **20\.** _Arrangement following Theo Krispijn's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_krispijn.py.txt) and the [abjad](https://abjad.github.io/) library_
 
-**21\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 beat interpretation</span>](/assets/images/posts/hurrian/fletcher.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_fletcher.py.txt) and the [abjad](https://abjad.github.io/) library_
+**21\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 beat interpretation</span>](/assets/img/posts/hurrian/fletcher.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_fletcher.py.txt) and the [abjad](https://abjad.github.io/) library_
