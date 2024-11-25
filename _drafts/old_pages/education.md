@@ -128,7 +128,7 @@ Development of a Bayesian Monte Carlo procedure for ascertaining the fold of pro
 
 This work was awarded the Part II Thesis Prize.
 
-Supervisor: [Prof. Andrew Goodwin](http://research.chem.ox.ac.uk/andrew-goodwin.aspx)
+Supervisor: [Prof. Andrew Goodwin](https://goodwingroupox.uk/)
 
 </blockquote></details>
 </blockquote>

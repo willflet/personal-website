@@ -1163,7 +1163,7 @@ ninja-keys::part(ninja-input-wrapper) {
   display: flex;
   flex-direction: column;
   align-items: left;
-  width: 50%;
+  max-width: 100%;
 }
 
 .newsletter-form-label {
@@ -1171,8 +1171,7 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-newsletter-bg-color);
   outline: none;
   margin: 5px 10px 0px 5px;
-  width: 100%;
-  max-width: 350px;
+  max-width: 100%;
   min-width: 100px;
   padding: 8px 12px;
 }
@@ -1185,8 +1184,7 @@ ninja-keys::part(ninja-input-wrapper) {
   border: 1px solid var(--global-newsletter-text-color);
   outline: none;
   margin: 0px 10px 5px 5px;
-  width: 100%;
-  max-width: 350px;
+  max-width: 100%;
   min-width: 100px;
   box-sizing: border-box;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px;
@@ -1203,7 +1201,7 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-bg-color);
   display: flex;
   width: min-content;
-  max-width: 50%;
+  max-width: 100%;
   white-space: nowrap;
   height: 38px;
   align-items: center;
@@ -1225,7 +1223,7 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-bg-color);
   display: none;
   width: min-content;
-  max-width: 50%;
+  max-width: 100%;
   white-space: nowrap;
   height: 38px;
   align-items: center;
@@ -1246,21 +1244,21 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
   display: none;
   align-items: center;
-  width: 50%;
+  max-width: 100%;
 }
 
 .newsletter-error {
   color: var(--global-theme-color);
   display: none;
   align-items: center;
-  width: 50%;
+  max-width: 100%;
 }
 
 .newsletter-back-button {
   background: var(--global-theme-color);
   color: var(--global-bg-color);
   width: min-content;
-  max-width: 50%;
+  max-width: 100%;
   white-space: nowrap;
   height: 38px;
   align-items: center;
