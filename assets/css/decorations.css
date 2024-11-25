@@ -1,7 +1,7 @@
 /* frame for image */
 .framed {
   border: 5px solid #fff;
-  box-shadow: 0 0 12px 0px rgba(0.04,0.06,0.07,0.25);
+  box-shadow: 0 0 12px 0px rgba(0.04, 0.06, 0.07, 0.25);
 }
 
 /* squiggly underline for spellcheck */
@@ -12,7 +12,7 @@
   vertical-align: top;
 }
 .text-error:before {
-  content: '\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f'; /* too much? */
+  content: "\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f\fe4f"; /* too much? */
   max-width: 100%;
   position: absolute;
   white-space: nowrap;
@@ -29,31 +29,31 @@
 }
 
 p.caption {
-    margin-bottom: 2.5em;
-    text-align: center;
-    color: #7a7a88;
-    font-size: 90%;
-    font-variant: small-caps;
+  margin-bottom: 2.5em;
+  text-align: center;
+  color: #7a7a88;
+  font-size: 90%;
+  font-variant: small-caps;
 }
 
 p.caption img {
-    margin-top: 2.5em;
-    margin-bottom: 0.75em;
+  margin-top: 2.5em;
+  margin-bottom: 0.75em;
 }
 
 p.poem {
-    text-align: center;
-    color: #7a7a88;
+  text-align: center;
+  color: #7a7a88;
 }
 
 img.poem-banner-top {
-    width: 70%;
-    margin-top: 5.5em;
-    margin-bottom: 1.5em;
+  width: 70%;
+  margin-top: 5.5em;
+  margin-bottom: 1.5em;
 }
 
 img.poem-banner-bottom {
-    width: 70%;
-    margin-top: 0em;
-    margin-bottom: 2em;
+  width: 70%;
+  margin-top: 0em;
+  margin-bottom: 2em;
 }
