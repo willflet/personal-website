@@ -29,18 +29,18 @@
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};
 
-  --global-tip-block: #42b983;
-  --global-tip-block-bg: #e2f5ec;
-  --global-tip-block-text: #215d42;
-  --global-tip-block-title: #359469;
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  --global-tip-block: #{$green-color-light};
+  --global-tip-block-bg: #{color.change($green-color-lighter, $lightness: 90%)};
+  --global-tip-block-text: #{$green-color-dark};
+  --global-tip-block-title: #{green-color};
+  --global-warning-block: #{$blue-color-light};
+  --global-warning-block-bg: #{color.change($blue-color-lighter, $lightness: 90%)};
+  --global-warning-block-text: #{$blue-color-dark};
+  --global-warning-block-title: #{$blue-color};
+  --global-danger-block: #{$brick-color-light};
+  --global-danger-block-bg: #{color.change($brick-color-lighter, $lightness: 90%)};
+  --global-danger-block-text: #{$brick-color-dark};
+  --global-danger-block-title: #{$brick-color};
 
   #light-toggle-system {
     padding-left: 10px;
@@ -98,18 +98,18 @@ html[data-theme="dark"] {
   --global-newsletter-bg-color: #{$grey-color-dark};
   --global-newsletter-text-color: #{$grey-color-light};
 
-  --global-tip-block: #42b983;
-  --global-tip-block-bg: #e2f5ec;
-  --global-tip-block-text: #215d42;
-  --global-tip-block-title: #359469;
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  --global-tip-block: #{$green-color-light};
+  --global-tip-block-bg: #{color.change($green-color-dark, $lightness: 20%)};
+  --global-tip-block-text: #{$green-color-lighter};
+  --global-tip-block-title: #{green-color};
+  --global-warning-block: #{$blue-color-light};
+  --global-warning-block-bg: #{color.change($blue-color-dark, $lightness: 20%)};
+  --global-warning-block-text: #{$blue-color-lighter};
+  --global-warning-block-title: #{$blue-color};
+  --global-danger-block: #{$brick-color-light};
+  --global-danger-block-bg: #{color.change($brick-color-dark, $lightness: 20%)};
+  --global-danger-block-text: #{$brick-color-lighter};
+  --global-danger-block-title: #{$brick-color};
 
   .repo-img-light {
     display: none;
