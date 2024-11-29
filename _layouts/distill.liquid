@@ -84,26 +84,26 @@
       {% endif %}
 
       {% if page.banner %}
-      <d-article style="border-top: none !important;">
-        <d-contents class="sticky-top">
-          <nav class="l-text figcaption sticky-top">
-            <h3>Contents</h3>
-            {% toc %}
-          </nav>
-        </d-contents>
-        {{ content }}
-      </d-article>
+        <d-article style="border-top: none !important;">
+          <d-contents class="sticky-top">
+            <nav class="l-text figcaption sticky-top">
+              <h3>Contents</h3>
+              {% toc %}
+            </nav>
+          </d-contents>
+          {{ content }}
+        </d-article>
       {% else %}
-      <d-article>
+        <d-article>
+          <d-contents class="sticky-top">
+            <nav class="l-text figcaption sticky-top">
+              <h3>Contents</h3>
+              {% toc %}
+            </nav>
+          </d-contents>
+          {{ content }}
+        </d-article>
       {% endif %}
-        <d-contents class="sticky-top">
-          <nav class="l-text figcaption sticky-top">
-            <h3>Contents</h3>
-            {% toc %}
-          </nav>
-        </d-contents>
-        {{ content }}
-      </d-article>
 
       <d-appendix>
         <d-footnote-list></d-footnote-list>
