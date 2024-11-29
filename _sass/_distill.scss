@@ -18,6 +18,20 @@ d-article d-byline a {
   }
 }
 
+d-banner {
+  img {
+    opacity: 0.3;
+    width: 100%;
+    height: 3.5em;
+    object-fit: cover;
+    object-position: left top;
+    // border-top: 2px solid var(--global-divider-color);
+    // border-bottom: 2px solid var(--global-divider-color);
+    margin-top: 1em;
+    margin-bottom: 0em;
+  }
+}
+
 d-article {
   border-top-color: var(--global-divider-color) !important;
   p,
@@ -29,7 +43,7 @@ d-article {
   h6,
   li,
   table {
-    color: var(--global-text-color) !important;
+    color: var(--global-text-color);
   }
   h1,
   h2,
@@ -49,7 +63,13 @@ d-article {
     display: inline;
   }
   blockquote {
-    border-left: 2px solid var(--global-theme-color) !important;
+    border-left: 2px solid var(--global-theme-color);
+    font-style: normal;
+  }
+  p img {
+    display: block;
+    margin-inline: auto;
+    width: 100%;
   }
 
   // Style taken from code blocks
@@ -165,10 +185,10 @@ d-appendix {
   d-article {
     d-contents {
       display: block;
-      grid-column-start: 2;
-      grid-column-end: -2;
+      grid-column-start: text;
+      grid-column-end: text;
       padding-bottom: 0.5em;
-      margin-bottom: 1em;
+      margin-bottom: 2em;
       padding-top: 0.5em;
       width: 100%;
       border: 1px solid var(--global-divider-color);

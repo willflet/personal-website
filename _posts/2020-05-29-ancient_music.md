@@ -3,9 +3,10 @@ permalink: /blog/the-oldest-song
 layout: distill
 title: 🎵 The oldest song
 heading: "it goes like this: the fourth, the fifth"
+banner: /assets/img/posts/hurrian/banner.jpg
 categories:
   - Blog
-description: An attempted reconstruction of the oldest surviving musical composition. Starting from a 3400 year old clay tablet, how much is guesswork?
+description: An attempted reconstruction of an ancient work of music. Starting from a 3400 year old clay tablet, how much is guesswork?
 custom_css:
   - decorations
   - cuneiform
@@ -15,18 +16,13 @@ toc_label: "&nbsp;&nbsp;Contents"
 toc_icon: "music"
 ---
 
-The oldest musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg). Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc).
+🪶 The oldest surviving musical composition, and why it doesn't sound like [this](https://www.youtube.com/watch?v=kGZNbRKlzjg). Or [this](https://www.youtube.com/watch?v=QpxN2VXPMLc). 🪶
 
-**_Disclaimer_**: _this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.
-<br /><br />
-Image attributions can be found at the [end of the article](#image-attributions)_
-{: .notice--warning}
-
-![Cuneiform impressions](/assets/img/posts/hurrian/banner1.jpg){: .align-center .framed .poem-banner-top}
-
-![Intervals in h6](/assets/img/posts/hurrian/score.png){: .align-center style="width:62%;"}
-
-![Cuneiform impressions](/assets/img/posts/hurrian/banner2.jpg){: .align-center .framed .poem-banner-bottom}
+> **Disclaimer**: this is not a peer-reviewed article. Its purpose is to entertain and educate, not to consolidate research. I have made a reasonable effort to ensure accuracy and fair representation of the facts, but material below should not be relied upon as a primary reference.
+>
+> <br/> <!-- prettier-ignore -->
+> Image attributions can be found at the [end of the article](#image-attributions). <!-- prettier-ignore -->
+{: .block-warning }
 
 # Ancient music
 
@@ -34,9 +30,7 @@ In the Middle Eastern Bronze Age, the 14th century BCE, four hundred years befor
 
 Art from the era depicts musicians in high society, with an extensive range of instruments: drums, cymbals, pipes, horns, lyres and harps, even lutes. Scholars write complex treatises on musical theory, kings and queens are given ornate instruments as gifts, and children of the literate classes get musical education.
 
-[![İnandık vase](/assets/img/posts/hurrian/inandik.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/inandik.jpg)
-1\. &nbsp; a hittite vase from <span style="font-size:75%;">17</span>th century bce anatolia, modern turkey
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/inandik.jpg" class="img-fluid rounded z-depth-1" title="İnandık vase" caption="1. &nbsp; a hittite vase from <span style='font-size:75%;'>17</span>th century bce anatolia, modern turkey" zoomable=true %}
 
 Society as whole enjoyed music as part of everyday life; song and dance underpinned social occasions, ceremonies, and worship in many of the same ways it still does. Presumably there were also musicians who played for art's sake.
 
@@ -46,9 +40,7 @@ But let's stay at this particular date, around 1400 BCE.
 
 One specific tablet from this time, a text found in northern coastal Syria, has been identified as the oldest surviving musical composition. It is known as [**Hurrian hymn _h.6_**](https://en.wikipedia.org/wiki/Hurrian_songs). Researchers have of course been inspired to recreate the music, but there simply isn't enough to go on, and attempts so far have been... speculative at best.
 
-[![Tablet bearing h.6](/assets/img/posts/hurrian/h6_front.jpg){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/h6_front.jpg)
-2\. &nbsp; front of h.<span style="font-size:75%;">6</span> tablet
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/h6_front.jpg" class="img-fluid rounded z-depth-1" title="Tablet bearing h.6" caption="2. &nbsp; front of h.<span style='font-size:75%;'>6</span> tablet" zoomable=true %}
 
 Notwithstanding the challenge, I couldn't resist taking a look myself, to see what problems are encountered when interpreting the text, and perhaps use some musical intuition to navigate the possibilities. In this article I will:
 
@@ -67,9 +59,7 @@ The tablet containing _h.6_ was found in excavations of **Ugarit**, which by the
 
 Ugarit is at the north end of the Syrian coastal plain, which is bounded by Mount Lebanon to the south and a smaller mountain range to the east. Access to the continent was through a nearby pass, with the then-declining kingdom of Mitanni found inland in Upper Mesopotamia, and the Hittite Empire to the north in Anatolia.
 
-[![Map of the Middle East, 14th century BCE](/assets/img/posts/hurrian/map.png){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/map.png)
-3\. &nbsp; ugarit and surrounding powers, <span style="font-size:75%;">14</span>th century bce
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/map.png" class="img-fluid rounded z-depth-1" title="Map of the Middle East, 14th century BCE" caption="3. &nbsp; ugarit and surrounding powers, <span style='font-size:75%;'>14</span>th century bce" zoomable=true %}
 
 Ugarit had remained largely autonomous and non-militaristic, instead growing wealthy through trade. However, around this time, the Hittites expanded southward and absorbed the city and its lands as a vassal state
 
@@ -79,9 +69,7 @@ Being at the crossroads of north-south and land-sea trade routes, Ugarit accommo
 
 Our hymn is one of 36 hymns found at the site in the **Hurrian** language, and is the most complete of the collection. It is addressed to [Nikkal](https://en.wikipedia.org/wiki/Ningal), a cross-cultural goddess of fruit and fertility, mother of the sun god, and wife of the moon god.
 
-[![Ruins of Ugarit](/assets/img/posts/hurrian/ugarit.jpg){: .align-center .framed style="width: 70%;"}](/assets/img/posts/hurrian/ugarit.jpg)
-4\. &nbsp; ruins of ugarit in the present day
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/ugarit.jpg" class="img-fluid rounded z-depth-1" title="Ruins of Ugarit" caption="4. &nbsp; ruins of ugarit in the present day" zoomable=true %}
 
 ## Linguistics
 
@@ -125,8 +113,8 @@ Both are written phonetically, using Hittite **cuneiform** syllables:
 | | 𒀀 |_𒂊_|𒄿| 𒌑|𒅀|𒉿|𒃾|
 {: .table .syllabary}
 
-Other syllables exist. Some are alternative signs for those listed above, but there are also closed syllables (_consonant–vowel–consonant_). Cuneiform is versatile and can be read in many ways. But most of the transliteration that follows uses only the ones shown.
-{: .notice--primary}
+> Other syllables exist. Some are alternative signs for those listed above, but there are also closed syllables (_consonant–vowel–consonant_). Cuneiform is versatile and can be read in many ways. But most of the transliteration that follows uses only the ones shown. <!-- prettier-ignore -->
+{: .block-tip}
 
 Here I'm using a font ([Ullikummi](https://www.hethport.uni-wuerzburg.de/cuneifont/)) that displays variants of cuneiform glyphs simlar to those used on the tablet.
 
@@ -138,9 +126,7 @@ Then, when **Hittites** adopted the script in their language, they in turn used 
 
 You can have a go at it yourself using the table above and photograph below.
 
-[![Tablet bearing h.6](/assets/img/posts/hurrian/h6.jpg){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/h6.jpg)
-5\. &nbsp; tablet bearing hurrian hymn h.<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/h6.jpg" class="img-fluid rounded z-depth-1" title="Tablet bearing h.6" caption="5. &nbsp; tablet bearing hurrian hymn h.<span style='font-size:75%;'>6</span>" zoomable=true %}
 
 ## Transcription
 
@@ -148,8 +134,8 @@ Since I am not in any way an Assyriologist, I won't go into any further detail o
 
 _H.6_ was first transcribed in the 1960s following the tablets' discovery, but a more complete version is presented here, Theo Krispijn's work of 2000 (recorded at [this webpage](http://individual.utoronto.ca/seadogdriftwood/Hurrian/Website_article_on_Hurrian_Hymn_No._6.html)).
 
-Left-aligned text corresponds to the front of the tablet, and right-aligned the reverse. Lines wrap round from the front to the back over the edge, and successive lines begin with a repeat of the last few words of the previous line.
-{: .notice--primary}
+> Left-aligned text corresponds to the front of the tablet, and right-aligned the reverse. Lines wrap round from the front to the back over the edge, and successive lines begin with a repeat of the last few words of the previous line. <!-- prettier-ignore -->
+{: .block-tip}
 
 |---|
 | *𒄩*𒀸*𒋫*&#xfeff;*𒉌*𒅀𒊭 𒍣𒌑*𒂊* 𒅆𒉡𒋼 𒍪𒌅𒊑𒅀 𒌑𒁍𒂵𒊏<span style="font-family:LatoWeb;font-weight:300;">[</span>𒀜<span style="font-family:LatoWeb;font-weight:300;">/</span>*𒀝*<span style="font-family:LatoWeb;font-weight:300;">]</span> 𒄷|
@@ -203,9 +189,7 @@ To the untrained eye, this doesn't look much like music. However, there's someth
 
 They correspond to words from another tablet, [CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475). This tablet isn't exactly from the same place (it was found in Nippur, Lower Mesopotamia) but the terminology pops up in quite a few texts over a wide area and timespan.
 
-[![CBS10996, the interval text](/assets/img/posts/hurrian/cbs10996.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/cbs10996.jpg)
-6\. &nbsp; tablet cbs <span style="font-size:75%;">10996</span>, the "interval text"
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/cbs10996.jpg" class="img-fluid rounded z-depth-1" title="CBS10996, the interval text" caption="6\. &nbsp; tablet cbs <span style='font-size:75%;'>10996</span>, the &quot;interval text&quot;" zoomable=true %}
 
 From these sources we know that the terms refer to **pairs of strings** on a [lyre](https://en.wikipedia.org/wiki/Lyre). Originally Akkadian with meanings such as "middle", "fourth", and "opening", they are Hurrianized in this text and others, without equivalent translation.
 
@@ -229,14 +213,13 @@ From these sources we know that the terms refer to **pairs of strings** on a [ly
 |:---------------|:----------------|:------------------|:--------:|
 {: .table .align-center .intervals style="width: 70%;"}
 
-Parentheses ( ) indicate that the term is not clearly found in _h.6_; reconstruction where possible is from the other hymn fragments.
-<br /><br />
-The intervals span 3, 4, 5, or 6 strings. Those that span 4 or 5 (shown in orange below) are often referred to as the 'primary' intervals
-{: .notice--primary}
+> Parentheses ( ) indicate that the term is not clearly found in _h.6_; reconstruction where possible is from the other hymn fragments.
+>
+> <br /> <!-- prettier-ignore -->
+> The intervals span 3, 4, 5, or 6 strings. Those that span 4 or 5 (shown in orange below) are often referred to as the 'primary' intervals <!-- prettier-ignore -->
+{: .block-tip}
 
-[![The intervals of Akkadian music notation](/assets/img/posts/hurrian/intervals.png){: .align-center .framed style="width: 35%;"}](/assets/img/posts/hurrian/intervals.png)
-7\. &nbsp; intervals between strings as listed in cbs <span style="font-size:75%;">10996</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/intervals.png" class="img-fluid rounded z-depth-1" title="The intervals of Akkadian music notation" caption="7. &nbsp; intervals between strings as listed in cbs <span style='font-size:75%;'>10996</span>" width="50%" zoomable=true %}
 
 The strings **6** and **7** are in fact referred to in CBS 10996 as "4th rear" and "3rd rear", implying two more strings (**8** and **9**). Another text ([UET VII 126](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P347085)) confirms this with a listing of all nine strings in order.
 
@@ -265,9 +248,7 @@ In the immediate aftermath the harp's discovery, that was all there was to go on
 
 Today we can do better thanks to other tablets, though there is still a lot of wiggle room. The next sure step we can take is determining how the strings should _sound_.
 
-[![Golden lyre of Ur](/assets/img/posts/hurrian/lyre.jpg){: .align-center .framed style="width: 50%;"}](/assets/img/posts/hurrian/lyre.jpg)
-8\. &nbsp; the [golden lyre of ur](https://en.wikipedia.org/wiki/Lyres_of_Ur), without its strings
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/lyre.jpg" class="img-fluid rounded z-depth-1" title="Golden lyre of Ur" caption="8. &nbsp; the <a href='https://en.wikipedia.org/wiki/Lyres_of_Ur'>golden lyre of ur</a>, without its strings" zoomable=true %}
 
 ## The strings
 
@@ -308,12 +289,10 @@ From such clear instructions we learn a lot.
 
 On the evidence so far, most agree only one possibility reasonably fits: that these tunings are descending [**diatonic scales**](https://en.wikipedia.org/wiki/Diatonic_scale), as shown in the animation below. In other words, they have the same structure as the major, natural minor or other [modes](<https://en.wikipedia.org/wiki/Mode_(music)>).
 
-It's hard to know what absolute pitch they would have tuned to, but I've made a tactical choice of using **D** for string **9** (the _lowest_ string) throughout the cycle.
-{: .notice--primary}
+> It's hard to know what absolute pitch they would have tuned to, but I've made a tactical choice of using **D** for string **9** (the _lowest_ string) throughout the cycle. <!-- prettier-ignore -->
+{: .block-tip}
 
-[<video autoplay loop muted><source src="/assets/img/posts/hurrian/ModeCircle.mp4" type="video/mp4"></source></video>{: .align-center .framed style="width:70%;margin-bottom:0.5em;"}](/assets/img/posts/hurrian/ModeCircle.mp4)
-9\. &nbsp; the tunings of the nine-string lyre
-{: .caption}
+{% include video.liquid autoplay=true loop=true muted=true controls=true path="/assets/img/posts/hurrian/ModeCircle.mp4" class="img-fluid rounded z-depth-1" title="Lyre tunings" caption="9. &nbsp; the tuning cycle of the nine-string lyre" %}
 
 <table class="table modes align-center" style="width:100%;table-layout:auto;"><thead><tr><th style="text-align: left"><p> </p></th><th style="text-align: center" colspan="9"><p>Strings</p></th><th style="text-align: center" colspan="2"><p><a href="https://en.wikipedia.org/wiki/Mode_(music)#Modern_modes">Modes</a></p></th></tr><tr><th style="text-align: left"><p>Tuning</p></th><th style="text-align: center"><p>9</p></th><th style="text-align: center"><p>8</p></th><th style="text-align: center"><p>7</p></th><th style="text-align: center"><p>6</p></th><th style="text-align: center"><p>5</p></th><th style="text-align: center"><p>4</p></th><th style="text-align: center"><p>3</p></th><th style="text-align: center"><p>2</p></th><th style="text-align: center"><p>1</p></th><th style="text-align: center"><p>(9→2)</p></th><th style="text-align: center"><p>(8→1)</p></th></tr></thead><tbody><tr><td style="text-align: left"><p>išartum</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E♭</p></td><td style="text-align: center"><p>F</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A♭</p></td><td style="text-align: center"><p>B♭</p></td><td style="text-align: center"><p>C</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E♭</p></td><td style="text-align: center"><p>Locrian</p></td><td style="text-align: center"><p>Ionian</p></td></tr><tr><td style="text-align: left"><p>qablītum</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E♭</p></td><td style="text-align: center"><p>F</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B♭</p></td><td style="text-align: center"><p>C</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E♭</p></td><td style="text-align: center"><p>Phrygian</p></td><td style="text-align: center"><p>Lydian</p></td></tr><tr><td style="text-align: left"><p>nīš tuḫri</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>F</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B♭</p></td><td style="text-align: center"><p>C</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>Aeolian</p></td><td style="text-align: center"><p>Locrian</p></td></tr><tr><td style="text-align: left"><p>nīd qablim</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>F</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B</p></td><td style="text-align: center"><p>C</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>Dorian</p></td><td style="text-align: center"><p>Phrygian</p></td></tr><tr><td style="text-align: left"><p>pītum</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>F♯</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B</p></td><td style="text-align: center"><p>C</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>Mixolydian</p></td><td style="text-align: center"><p>Aeolian</p></td></tr><tr><td style="text-align: left"><p>embūbum</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>F♯</p></td><td style="text-align: center"><p>G</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B</p></td><td style="text-align: center"><p>C♯</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>Ionian</p></td><td style="text-align: center"><p>Dorian</p></td></tr><tr><td style="text-align: left"><p>kitmum</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>F♯</p></td><td style="text-align: center"><p>G♯</p></td><td style="text-align: center"><p>A</p></td><td style="text-align: center"><p>B</p></td><td style="text-align: center"><p>C♯</p></td><td style="text-align: center"><p>D</p></td><td style="text-align: center"><p>E</p></td><td style="text-align: center"><p>Lydian</p></td><td style="text-align: center"><p>Mixolydian</p></td></tr></tbody></table>
 
@@ -333,8 +312,8 @@ It's hard to know what absolute pitch they would have tuned to, but I've made a 
 
 # The music
 
-_This section deals with the full scope of possible interpretations; for individual examples, see [the final section](#Interpretations)._
-{: .notice--success}
+> This section deals with the full scope of possible interpretations; for individual examples, see [the final section](#Interpretations). <!-- prettier-ignore -->
+{: .block-tip}
 
 ## What we know
 
@@ -343,14 +322,13 @@ After all that deciphering, where are we? Well, if we're hoping to perform the h
 1. Reconstruct a harp or lyre tuned to **nīd qablim**, and
 2. Read the word-based notation as a series of string pairs.
 
-[![The interval skeleton of h.6](/assets/img/posts/hurrian/score.png){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/score.png)
-10\. &nbsp; the interval skeleton underpinning h<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/score.png" class="img-fluid rounded z-depth-1" title="The interval skeleton of h.6" caption="10. &nbsp; the interval skeleton underpinning h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-The first listed string of each interval (according to CBS 10996) is coloured black; the second, grey. Whenever string **1** or **2** is present, I've added string **8** or **9** with a small notehead.
-<br /><br />
-Numbers under the intervals are the ones found after each word on the tablet, with "**uš**" standing in for _uš-ta-ma-a-ri_.
-{: .notice--primary}
+> The first listed string of each interval (according to CBS 10996) is coloured black; the second, grey. Whenever string **1** or **2** is present, I've added string **8** or **9** with a small notehead.
+>
+> <br /> <!-- prettier-ignore -->
+> Numbers under the intervals are the ones found after each word on the tablet, with "**uš**" standing in for _uš-ta-ma-a-ri_.<!-- prettier-ignore -->
+{: .block-tip}
 
 We are still in the dark, however, about a few important things: 3. What does a string pair mean in terms of performance? 4. What do the numbers between words mean? 5. What does _uš-ta-ma-a-ri_ signify? 5. What is the relationship of the music to the text of the hymn?
 
@@ -368,9 +346,7 @@ The argument centres around a lack of evidence for polyphony anywhere in the wor
 
 After unpitched percussion, the earliest (prehistoric) music would obviously have been monophonic, but had **harmony** developed by 1400 BCE?
 
-[![Prehistoric flute](/assets/img/posts/hurrian/paleolithic_flute.jpg){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/paleolithic_flute.jpg)
-11\. &nbsp; flute from swabia dated to around <span style="font-size:75%;">35,000</span> bce
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/paleolithic_flute.jpg" class="img-fluid rounded z-depth-1" title="Prehistoric flute" caption="11. &nbsp; flute from swabia dated to around <span style='font-size:75%;'>35,000</span> bce" zoomable=true %}
 
 Some scholars (West, Vitale, Dumbrill) take pains to avoid interpreting the string pairs as polyphony; they'd rather read them as a melodic line.
 
@@ -378,9 +354,7 @@ And they do have a point.
 
 If the intervals are harmonic, why are they listed with a mixture of low-string-first and high-string-first in CBS 10996? Even if this isn't meaningful, it's odd enough that it begs a different explanation.
 
-[![Harmonic and melodic intervals](/assets/img/posts/hurrian/scale.png){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/scale.png)
-12\. &nbsp; interval **<span style="font-size:75%;">5</span>–<span style="font-size:75%;">2</span>** treated as a two-note chord and a scale
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/scale.png" class="img-fluid rounded z-depth-1" title="Harmonic and melodic intervals" caption="12. &nbsp; interval <span style='font-size:75%;font-weight:bold;'>5–2</span> treated as a two-note chord and a scale" zoomable=true %}
 
 However, [Michael Levy](https://ancientlyre.com/the-urban-myth-of-the-monotony-of-monophony-in-the-ancient-world) – not an academic but a musician specializing in ancient lyre – has a different view.
 
@@ -427,14 +401,13 @@ The only accessible possibility, it seems, is to read the numbers as an indicato
 
 There are a few variants of this idea:
 
-[![Rhythmic interpretations](/assets/img/posts/hurrian/rhythms.png){: .align-center .framed style="width: 80%;"}](/assets/img/posts/hurrian/rhythms.png)
-13\. &nbsp; possible rhythmic interpretations of the numbers
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/rhythms.png" class="img-fluid rounded z-depth-1" title="Rhythmic interpretations" caption="13. &nbsp; possible rhythmic interpretations of the numbers" zoomable=true %}
 
-Options **a** through **d** are intuitive enough; **e** uses the numbers to indicate how many notes from the scale should be present, and **f** (my own invention) uses them as beats of the bar on which to play.
-<br /><br />
-The reader will no doubt be able to think of more.
-{: .notice--primary}
+> Options **a** through **d** are intuitive enough; **e** uses the numbers to indicate how many notes from the scale should be present, and **f** (my own invention) uses them as beats of the bar on which to play.
+>
+> <br /> <!-- prettier-ignore -->
+>The reader will no doubt be able to think of more. <!-- prettier-ignore -->
+{: .block-tip}
 
 However, there's absolutely no guarantee that one of these options is the truth. In fact, they all have such deficiencies that I favour none of them:
 
@@ -451,9 +424,7 @@ It may be that the notation is more like a [chord sheet](https://en.wikipedia.or
 
 A guiding principle is whether the result sounds convincing: a human artistic work rather than a jumble of sound. But then again, who's to say the music was ever any good?
 
-[![Child covering ears](/assets/img/posts/hurrian/covering_ears.jpg){: .align-center .framed style="width: 60%;"}](/assets/img/posts/hurrian/covering_ears.jpg)
-14\. &nbsp; not all noises are pleasant
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/covering_ears.jpg" class="img-fluid rounded z-depth-1" title="Child covering ears" caption="14. &nbsp; not all noises are pleasant" zoomable=true %}
 
 ### Music and text
 
@@ -491,88 +462,84 @@ Overall, then, we're not going to get much more help from the tablet. Extracting
 
 Now it's finally time to see some versions of the piece in its entirety.
 
-**_Legal considerations_**: _In order to avoid navigating what is copyrighted and what is public domain, and to maintain consistency between works, I've chosen to create automated equivalents following the rules above, thus reproducing the guiding concepts of each work rather than the work itself. The differences do not affect my evaluations._
-{: .notice--warning}
+> **Legal considerations**: In order to avoid navigating what is copyrighted and what is public domain, and to maintain consistency between works, I've chosen to create automated equivalents following the rules above, thus reproducing the guiding concepts of each work rather than the work itself. The differences do not affect my evaluations. <!-- prettier-ignore -->
+{: .block-warning}
 
-In the light of UET VII 74, interpretations based on **ascending tunings** are now known to be incorrect. This includes those of **David Wulstan** (1971), **Anne Draffkorn Kilmer** (1974), and **Marcelle Duchesne-Guillemin** (1977), who are otherwise credited with the major early work in this area).
-<br /><br />
-I have chosen not to display these versions. Generally speaking, they are superseded by later readings with the correct tonality.
-<br /><br />
-The video game [Civilization V](https://en.wikipedia.org/wiki/Civilization_V), notable for a soundtrack inspired by early music from the regions of its playable powers, seems to have [missed this fact](https://www.youtube.com/watch?v=3qoQBCB1CmM) in using Kilmer's version.
-{: .notice--primary}
+> In the light of UET VII 74, interpretations based on **ascending tunings** are now known to be incorrect. This includes those of **David Wulstan** (1971), **Anne Draffkorn Kilmer** (1974), and **Marcelle Duchesne-Guillemin** (1977), who are otherwise credited with the major early work in this area).
+>
+> <br />
+> I have chosen not to display these versions. Generally speaking, they are superseded by later readings with the correct tonality.
+>
+> <br /> <!-- prettier-ignore -->
+> The video game [Civilization V](https://en.wikipedia.org/wiki/Civilization_V), notable for a soundtrack inspired by early music from the regions of its playable powers, seems to have [missed this fact](https://www.youtube.com/watch?v=3qoQBCB1CmM) in using Kilmer's version. <!-- prettier-ignore -->
+{: .block-tip}
 
 Of the published arrangements of _h.6_ that I've seen or heard, all are constructed from the ideas laid out earlier. The various combinations can be summarized in a matrix:
 
-[![Interpretations](/assets/img/posts/hurrian/interpretations.png){: .align-center .framed style="width: 90%;"}](/assets/img/posts/hurrian/interpretations.png)
-15\. &nbsp; interpretations by their treatment of the intervals and numbers
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/interpretations.png" class="img-fluid rounded z-depth-1" title="Interpretations" caption="15. &nbsp; interpretations by their treatment of the intervals and numbers" zoomable=true %}
 
 For example, Anglo-French archaeomusicologist **Richard Dumbrill** opts to render all the primary intervals as descending scales of five notes, and all the secondary ones as three. He uses the numbers to determine the duration of each bar's final note (rhythm interpretation **d**).
 
-[![Dumbrill's interpretation](/assets/img/posts/hurrian/dumbrill.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/dumbrill.png)
-16\. &nbsp; an arrangement following dumbrill's <span style="font-size:75%;">1998</span> scheme for interpreting h<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/dumbrill.png" class="img-fluid rounded z-depth-1" title="Dumbrill's interpretation" caption="16. &nbsp; an arrangement following dumbrill's <span style='font-size:75%;'>1998</span> scheme for interpreting h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: in his academic books and videos, Dumbrill is extremely rigorous, but this arrangement cuts a few corners. Intervals are flipped for artificial internal consistency at the expense of the notation itself, and rhythmic decisions are heavily subjective.
-<br /><br />
-This represents an admirable attempt to get into the mindset of the composer and recreate something worthwhile. It's a pleasant tune, but not convincingly authentic.
-<br /><br />
-Melody (aesthetics) ★★★☆☆ (justification) ★★☆☆☆  
-Rhythm (aesthetics) ★★★☆☆ (justification) ★☆☆☆☆  
-Structure (aesthetics) ★★★☆☆
-{: .notice--primary}
+> **Verdict**: in his academic books and videos, Dumbrill is extremely rigorous, but this arrangement cuts a few corners. Intervals are flipped for artificial internal consistency at the expense of the notation itself, and rhythmic decisions are heavily subjective.
+>
+> <br />
+> This represents an admirable attempt to get into the mindset of the composer and recreate something worthwhile. It's a pleasant tune, but not convincingly authentic.
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★★★☆☆ (justification) ★★☆☆☆  
+> Rhythm (aesthetics) ★★★☆☆ (justification) ★☆☆☆☆  
+> Structure (aesthetics) ★★★☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 Meanwhile, eminent classicist **Martin Litchfield West** chooses to ignore the first string from every interval, and uses the numbers as indications to repeat (rhythm interpretation **a**).
 
-[![West's interpretation](/assets/img/posts/hurrian/west.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/west.png)
-17\. &nbsp; an arrangement following west's <span style="font-size:75%;">1993</span> scheme for interpreting h<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/west.png" class="img-fluid rounded z-depth-1" title="West's interpretation" caption="17. &nbsp; an arrangement following west's <span style='font-size:75%;'>1998</span> scheme for interpreting h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: West takes a minimal, soft-touch approach. The result falls short of real music, but there are no big decisions to find fault with, except perhaps discarding half of each interval. It's an arrangement content to remain far from the original rather than risk straying further away.
-<br /><br />
-Melody (aesthetics) ★☆☆☆☆ (justification) ★★★☆☆  
-Rhythm (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
-Structure (aesthetics) ★☆☆☆☆
-{: .notice--primary}
+> **Verdict**: West takes a minimal, soft-touch approach. The result falls short of real music, but there are no big decisions to find fault with, except perhaps discarding half of each interval. It's an arrangement content to remain far from the original rather than risk straying further away.
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★☆☆☆☆ (justification) ★★★☆☆  
+> Rhythm (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
+> Structure (aesthetics) ★☆☆☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 Italo-Syrian archaeomusicologist **Raoul Gregory Vitale**, born less than 10km from Ugarit, has every reason to add his own thoughts. And indeed he does, using rhythm interpretation **c** and unmodified scales:
 
-[![Vitale's interpretation](/assets/img/posts/hurrian/vitale.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/vitale.png)
-18\. &nbsp; arrangement of h<span style="font-size:75%;">6</span> by raoul gregory vitale, <span style="font-size:75%;">1982</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/vitale.png" class="img-fluid rounded z-depth-1" title="Vitale's interpretation" caption="18. &nbsp; an arrangement following vitale's <span style='font-size:75%;'>1998</span> scheme for interpreting h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: Vitale makes no adjustment to the intervals in CBS 10996, simply filling each of them into a monophonic scale in the orientation listed. Rhythmically, however, the idea of stretching each scale by a factor of its accompanying number is novel but a stretch in itself.
-<br /><br />
-Melody (aesthetics) ★★☆☆☆ (justification) ★★★★☆  
-Rhythm (aesthetics) ★★☆☆☆ (justification) ★★☆☆☆  
-Structure (aesthetics) ★★☆☆☆
-{: .notice--primary}
+> **Verdict**: Vitale makes no adjustment to the intervals in CBS 10996, simply filling each of them into a monophonic scale in the orientation listed. Rhythmically, however, the idea of stretching each scale by a factor of its accompanying number is novel but a stretch in itself.
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★★☆☆☆ (justification) ★★★★☆  
+> Rhythm (aesthetics) ★★☆☆☆ (justification) ★★☆☆☆  
+> Structure (aesthetics) ★★☆☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 American composer **Joe Monzo** posted [this message](http://www.tonalsoft.com/monzo/babylonian/hurrian/monz-h6.aspx) on an discussion board in 2000. His version uses plain chords and rhythm interpretation **b**.
 
-[![Monzo's interpretation](/assets/img/posts/hurrian/monzo.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/monzo.png)
-19\. &nbsp; an arrangement following monzo's <span style="font-size:75%;">2000</span> scheme for interpreting h<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/monzo.png" class="img-fluid rounded z-depth-1" title="Monzo's interpretation" caption="19. &nbsp; an arrangement following monzo's <span style='font-size:75%;'>1998</span> scheme for interpreting h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: As a passion project, Monzo has gone for a fairly straightforward interpretation. Issues of polyphony aside, why wouldn't this be correct? It's not the most beautiful, though.
-<br /><br />
-Melody (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
-Rhythm (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
-Structure (aesthetics) ★☆☆☆☆
-{: .notice--primary}
+> **Verdict**: As a passion project, Monzo has gone for a fairly straightforward interpretation. Issues of polyphony aside, why wouldn't this be correct? It's not the most beautiful, though.
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
+> Rhythm (aesthetics) ★☆☆☆☆ (justification) ★★★★☆  
+> Structure (aesthetics) ★☆☆☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 **Theo Krispijn**, the academic who not only transcribed _h.6_ in the form shown earlier but also gave its most complete translation, has produced a linguistically sensitive arrangement with a simple chords-and-repeats reading of the tablet.
 
-[![Krispijn's interpretation](/assets/img/posts/hurrian/krispijn.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/krispijn.png)
-20\. &nbsp; arrangement of h<span style="font-size:75%;">6</span> by theo krispijn
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/krispijn.png" class="img-fluid rounded z-depth-1" title="Krispijn's interpretation" caption="20. &nbsp; an arrangement following krispijn's <span style='font-size:75%;'>1998</span> scheme for interpreting h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: Reminiscent of medieval [plainsong](https://en.wikipedia.org/wiki/Plainsong), Krispijn's version uses rests to help phrase the otherwise dull rhythms borne of rhythmic interpretation **a**. In a religious context, this is believable. But is it genuine?
-<br /><br />
-Melody (aesthetics) ★★★☆☆ (justification) ★★★★☆  
-Rhythm (aesthetics) ★★★☆☆ (justification) ★★★☆☆  
-Structure (aesthetics) ★★★☆☆
-{: .notice--primary}
+> **Verdict**: Reminiscent of medieval [plainsong](https://en.wikipedia.org/wiki/Plainsong), Krispijn's version uses rests to help phrase the otherwise dull rhythms borne of rhythmic interpretation **a**. In a religious context, this is believable. But is it genuine?
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★★★☆☆ (justification) ★★★★☆  
+> Rhythm (aesthetics) ★★★☆☆ (justification) ★★★☆☆  
+> Structure (aesthetics) ★★★☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 ### My version
 
@@ -580,18 +547,18 @@ I might as well put forward a version of my own.
 
 I've taken rhythm interpretation **f**, which interprets the numbers as beats in 4/4 time, along with unmodified intervals as chords. To make this work I only had to resolve one issue, interpreting the number _10_ (with _uš-ta-ma-a-ri_) figuratively, as a pause before.
 
-[![My interpretation](/assets/img/posts/hurrian/fletcher.png){: .align-center .framed style="width: 100%;"}](/assets/img/posts/hurrian/fletcher.png)
-21\. &nbsp; my arrangement of h<span style="font-size:75%;">6</span>
-{: .caption}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/fletcher.png" class="img-fluid rounded z-depth-1" title="My interpretation" caption="21. &nbsp; my arrangement of h<span style='font-size:75%;'>6</span>" zoomable=true %}
 
-**Verdict**: It's hard to be objective about my own work. However, it must be said this is a simple, readable, and intuitive idea. Musically speaking, the piece emerges with a persistent trochaic pulse, and some pleasing aspects of structure.
-<br /><br />
-Personally, though, I dislike the occasional missing downbeats, and the ending is a little abrupt. There's also a general lack of flow if lyrics were to be superimposed. These shortcomings are enough to leave me thinking I'm not on the money. But perhaps with further development...
-<br /><br />
-Melody (aesthetics) ★★★☆☆ (justification) ★★★★☆  
-Rhythm (aesthetics) ★★★☆☆ (justification) ★★★☆☆  
-Piece as a whole ★★★☆☆
-{: .notice--primary}
+> **Verdict**: It's hard to be objective about my own work. However, it must be said this is a simple, readable, and intuitive idea. Musically speaking, the piece emerges with a persistent trochaic pulse, and some pleasing aspects of structure.
+>
+> <br />
+> Personally, though, I dislike the occasional missing downbeats, and the ending is a little abrupt. There's also a general lack of flow if lyrics were to be superimposed. These shortcomings are enough to leave me thinking I'm not on the money. But perhaps with further development...
+>
+> <br /> <!-- prettier-ignore -->
+> Melody (aesthetics) ★★★☆☆ (justification) ★★★★☆  
+> Rhythm (aesthetics) ★★★☆☆ (justification) ★★★☆☆  
+> Piece as a whole ★★★☆☆ <!-- prettier-ignore -->
+{: .block-tip}
 
 # Closing thoughts
 
@@ -639,8 +606,8 @@ If you're interested in exploring more ancient music, the most famous example is
 
 Thank you for joining me on this adventure in information; I look forward to another.
 
-If you would like to reach me with a comment or request, please use the [contact form](/contact/).
-{: .notice--success}
+> If you would like to reach me with a comment or request, please use the [contact form](/contact/). <!-- prettier-ignore -->
+{: .block-tip}
 
 <br /><br /><br /><br />
 
@@ -650,16 +617,17 @@ If you would like to reach me with a comment or request, please use the [contact
 
 **Banners.** _(Portions from photographs of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)):_
 
-<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work._
+<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work._
 {: style="margin-top:-1em;"}
 
-<span style="color:#b0b0bb">**\>**</span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work._
+<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work._
 {: style="margin-top:-1em;"}
 
 **Musical score.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
 {: .license-text}
 
-**1\.** \*[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)\_
+<!-- prettier-ignore -->
+**1\.** _[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k*vase,\_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,\_mid_17th_century,\_found_in*%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,\_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)_
 
 **2\.** _[Portion](/assets/img/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
 

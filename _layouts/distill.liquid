@@ -77,9 +77,18 @@
       {% if page.authors %}
         <d-byline></d-byline>
       {% endif %}
+      {% if page.banner %}
+        <d-banner>
+          <img src="{{page.banner}}">
+        </d-banner>
+      {% endif %}
 
+      {% if page.banner %}
+      <d-article style="border-top: none !important;">
+      {% else %}
       <d-article>
-        <d-contents>
+      {% endif %}
+        <d-contents class="sticky-top">
           <nav class="l-text figcaption sticky-top">
             <h3>Contents</h3>
             {% toc %}

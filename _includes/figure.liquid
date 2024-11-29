@@ -34,18 +34,22 @@
       {% if include.class %}
         class="{{ include.class }}"
       {% endif %}
-      {% if include.width %}
-        width="{{ include.width }}"
-      {% else %}
-        width="100%"
-      {% endif %}
-      {% if include.height %}
-        height="{{ include.height }}"
-      {% else %}
-        height="auto"
-      {% endif %}
-      {% if include['min-width'] or include['min-height'] or include['max-width'] or include['max-height'] %}
+
+      {% if include.width or include.height or include['min-width'] or include['min-height'] or include['max-width'] or include['max-height'] %}
         style="
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          {% if include.width %}
+            width: {{ include.width }};
+          {% else %}
+            width: auto;
+          {% endif %}
+          {% if include.height %}
+            height: {{ include.height }};
+          {% else %}
+            height: auto;
+          {% endif %}
           {% if include['min-width'] %}
             min-width: {{ include.min-width }};
           {% endif %}

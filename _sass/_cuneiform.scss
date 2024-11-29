@@ -34,25 +34,31 @@ table {
 /* Cuneiform syllable table */
 table.syllabary {
   width: 100%;
+  border-collapse: collapse;
+  border-bottom: none;
 }
 
-table.syllabary tr td {
-  border: 0.5px solid var(--global-bg-color);
-  padding: 0.25em 0em 0em 0em;
-  margin: 0em;
-  vertical-align: middle;
-  text-align: center;
-  font-family: Ullikummi;
-  font-size: 125%;
-  color: white;
-  background-color: var(--global-theme-color);
+table.syllabary tr {
+  border: none;
+  td {
+    border: 0.75px solid var(--global-bg-color);
+    border-bottom-color: var(--global-bg-color) !important;
+    padding: 0.25em 0em 0em 0em;
+    margin: 0em;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Ullikummi;
+    font-size: 125%;
+    color: var(--global-bg-color);
+    background-color: var(--global-theme-color);
 
-  p,
-  em,
-  span {
-    color: inherit;
-    background-color: inherit;
-    margin: inherit;
+    p,
+    em,
+    span {
+      color: var(--global-bg-color) !important;
+      background-color: inherit;
+      margin: inherit;
+    }
   }
 }
 
@@ -61,8 +67,13 @@ table.syllabary tr:first-child td {
   padding: 0em 0em 0.1em 0em;
   font-family: LatoWeb;
   font-weight: bold;
-  color: var(--global-theme-color);
+  color: var(--global-text-color) !important;
   background-color: var(--global-bg-color);
+
+  p {
+    color: var(--global-text-color) !important;
+    background-color: var(--global-bg-color);
+  }
 }
 
 table.syllabary tr td:first-child {
@@ -72,13 +83,18 @@ table.syllabary tr td:first-child {
   font-weight: bold;
   text-align: right;
   width: 1.5em !important;
-  color: var(--global-theme-color);
+  color: var(--global-text-color) !important;
   background-color: var(--global-bg-color);
+
+  p {
+    color: var(--global-text-color) !important;
+    background-color: var(--global-bg-color);
+  }
 }
 
 /* Transliteration under cuneiform */
 table.transliteration {
-  width: 92%;
+  max-width: 100%;
   color: var(--global-footer-bg-color);
 }
 
@@ -127,7 +143,7 @@ table.transliteration.translation tr:nth-child(even) td {
 
 /* Intervals comparison */
 table.intervals {
-  width: 85%;
+  max-width: 100%;
 }
 
 table.intervals td {
