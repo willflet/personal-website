@@ -4,7 +4,7 @@ layout: about
 title: about
 heading: about me
 nav: true
-nav-order: 1
+nav_order: 1
 description: 🪶 Tech. Science. Maths. Music. People. Planet. 🪶
 
 profile:
