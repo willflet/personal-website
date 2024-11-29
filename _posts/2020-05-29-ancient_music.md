@@ -627,7 +627,7 @@ Thank you for joining me on this adventure in information; I look forward to ano
 {: .license-text}
 
 <!-- prettier-ignore -->
-**1\.** _[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k*vase,\_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,\_mid_17th_century,\_found_in*%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,\_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)_
+**1\.** _[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26167755270).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)_
 
 **2\.** _[Portion](/assets/img/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
 
