@@ -145,25 +145,26 @@
     {
       "name": "Programming",
       "level": "Expert",
-      "icon": "fa-brands fa-python",
-      "keywords": ["version control (git)", "OOP", "packaging, distribution & docs", "CI/CD", "cloud computing"]
+      "icon": "fa-solid fa-terminal",
+      "keywords": [
+        "version control (git)",
+        "OOP",
+        "packaging, distribution & docs",
+        "CI/CD",
+        "cloud computing",
+        "sh, SQL, C, Fortran, R, MATLAB, LaTeX"
+      ]
     },
     {
       "name": "Design and development",
       "level": "Expert",
-      "icon": "fa-brands fa-python",
+      "icon": "fa-solid fa-pen-ruler",
       "keywords": ["system design", "problem decomposition", "debugging"]
-    },
-    {
-      "name": "sh, SQL, C, Fortran, R, MATLAB, LaTeX, ",
-      "level": "",
-      "icon": "fa-solid fa-terminal",
-      "keywords": []
     },
     {
       "name": "Communication",
       "level": "",
-      "icon": "fa-solid fa-terminal",
+      "icon": "fa-solid fa-people-arrows",
       "keywords": [
         "Technical writing",
         "Proposals",
@@ -178,7 +179,7 @@
     {
       "name": "Organizations",
       "level": "Expert",
-      "icon": "fa-brands fa-python",
+      "icon": "fa-solid fa-sitemap",
       "keywords": ["Goals", "Roles", "Collaboration", "Growth", "Healthy culture", "Change management"]
     },
     {
