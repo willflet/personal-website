@@ -232,16 +232,19 @@ abjad.show(staff)
 ```
 {: .align-center style="font-size: 60%; width: 90%; margin-bottom: 2em;"}
 
-**4\.** _Product info [here](https://boomwhackers.com). Image obtained from [this listing](https://www.thomann.de/gb/boomwhackers_bw_xts_boomophone.htm)_
+**4\.** Product info [here](https://boomwhackers.com). Image obtained from [this listing](https://www.thomann.de/gb/boomwhackers_bw_xts_boomophone.htm)
+{: .footnote}
 
-**5\.** _Rossini's cat duet, [score by Dean Shannon](https://commons.wikimedia.org/wiki/File:Duetto_buffo_di_due_gatti_sheet_music_(Page_3).png) reproduced under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)_
+**5\.** Rossini's cat duet, [score by Dean Shannon](https://commons.wikimedia.org/wiki/File:Duetto_buffo_di_due_gatti_sheet_music_(Page_3).png) reproduced under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
+{: .footnote}
 
-**6\.** _[Photo by Ylanite Koppens](https://www.pexels.com/photo/five-succulent-plants-1906439/) shared under [Pexels license](https://www.pexels.com/license/)_
+**6\.** [Photo by Ylanite Koppens](https://www.pexels.com/photo/five-succulent-plants-1906439/) shared under [Pexels license](https://www.pexels.com/license/)
+{: .footnote}
 
-**7\.** _Modified from [original plot by Bhutajata](https://commons.wikimedia.org/wiki/File:Normalized_response_spectra_of_human_cones.png) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-Derivative work [<span rel="http://purl.org/dc/terms/title">Vision cell responses</span>](/assets/images/posts/syntax/vision.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
-{: .license-text}
+**7\.** Modified from [original plot by Bhutajata](https://commons.wikimedia.org/wiki/File:Normalized_response_spectra_of_human_cones.png) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+Derivative work [<span rel="http://purl.org/dc/terms/title">Vision cell responses</span>](/assets/images/posts/syntax/vision.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+{: .footnote}
 
-**8\.** _Modified from [original plot by Maneesh](https://commons.wikimedia.org/wiki/File:3D_Graph_of_LMS_Color_Space.png) under [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/).
-Derivative work [<span rel="http://purl.org/dc/terms/title">LMS spectrum locus</span>](/assets/images/posts/syntax/lms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
-{: .license-text}
+**8\.** Modified from [original plot by Maneesh](https://commons.wikimedia.org/wiki/File:3D_Graph_of_LMS_Color_Space.png) under [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/).
+Derivative work [<span rel="http://purl.org/dc/terms/title">LMS spectrum locus</span>](/assets/images/posts/syntax/lms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+{: .footnote}

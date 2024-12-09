@@ -615,61 +615,79 @@ Thank you for joining me on this adventure in information; I look forward to ano
 
 (see [terms of use](/faq/#using-my-content))
 
-**Banners.** _(Portions from photographs of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)):_
+**Banners.** (Portions from photographs of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)):
+{: .footnote}
 
-<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work._
-{: style="margin-top:-1em;"}
+<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;[Portion](/assets/img/posts/hurrian/banner1.jpg) not subject to my copyright; refer to original work.
+{: .footnote style="margin-top:-1em;"}
 
-<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;_[Portion](/assets/img/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work._
-{: style="margin-top:-1em;"}
+<span style="color:var(--global-text-color-light);font-weight:bold;">\></span>&nbsp;&nbsp;[Portion](/assets/img/posts/hurrian/banner2.jpg) not subject to my copyright; refer to original work.
+{: .footnote style="margin-top:-1em;"}
 
-**Musical score.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
-{: .license-text}
+**Musical score.** Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
 <!-- prettier-ignore -->
-**1\.** _[Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)_
+**1\.** [Photograph by Carrole Raddato](<https://commons.wikimedia.org/wiki/File:The_%C4%B0nand%C4%B1k_vase,_a_Hittite_four-handled_large_terracota_vase_with_scenes_in_relief_depicting_a_sacred_wedding_ceremony,_mid_17th_century,_found_in_%C4%B0nand%C4%B1ktepe,_Museum_of_Anatolian_Civilizations,_Ankara_(26440405765).jpg>) reproduced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+{: .footnote}
 
-**2\.** _[Portion](/assets/img/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
+**2\.** [Portion](/assets/img/posts/hurrian/h6_front.jpg) of photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)
+{: .footnote}
 
-**3\.** _Modified from [original plot by Alexikoua](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_ca.svg) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
-Derivative work [<span rel="http://purl.org/dc/terms/title">Middle East in 14th century BCE</span>](/assets/img/posts/hurrian/map.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
-{: .license-text}
+**3\.** Modified from [original plot by Alexikoua](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_ca.svg) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+Derivative work [<span rel="http://purl.org/dc/terms/title">Middle East in 14th century BCE</span>](/assets/img/posts/hurrian/map.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+{: .footnote}
 
-**4\.** _[Photograph](https://www.flickr.com/photos/128659407@N02/42415116791) by [Jiří Suchomel](https://www.flickr.com/photos/128659407@N02/) shared under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_
+**4\.** [Photograph](https://www.flickr.com/photos/128659407@N02/42415116791) by [Jiří Suchomel](https://www.flickr.com/photos/128659407@N02/) shared under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+{: .footnote}
 
-**5\.** _Photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)_
+**5\.** Photograph of h.6 by Françoise Ernst-Pradal via [Sam Mirelman](https://www.circlethroughnewyork.com/blog/2017/2/13/dossier-on-the-hurrian-hymn)
+{: .footnote}
 
-**6\.** _[Portion](/assets/img/posts/hurrian/cbs10996.jpg) of [photograph of CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475) by [CDLI](https://cdli.ucla.edu) staff / [Penn Museum](https://www.penn.museum/)_
+**6\.** [Portion](/assets/img/posts/hurrian/cbs10996.jpg) of [photograph of CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475) by [CDLI](https://cdli.ucla.edu) staff / [Penn Museum](https://www.penn.museum/)
+{: .footnote}
 
-**7\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Intervals</span>](/assets/img/posts/hurrian/intervals.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
-{: .license-text}
+**7\.** Original work [<span rel="http://purl.org/dc/terms/title">Lyre Intervals</span>](/assets/img/posts/hurrian/intervals.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+{: .footnote}
 
-**8\.** _[Photograph](https://www.flickr.com/photos/126377022@N07/14580966009/) of an illustration from "Ur excavations" (1900), contributed by Umass Amherst Libraries to [The Commons](https://www.flickr.com/commons/usage/) on Flickr_
+**8\.** [Photograph](https://www.flickr.com/photos/126377022@N07/14580966009/) of an illustration from "Ur excavations" (1900), contributed by Umass Amherst Libraries to [The Commons](https://www.flickr.com/commons/usage/) on Flickr
+{: .footnote}
 
-**9\.** _Original work [<span rel="http://purl.org/dc/terms/title">Lyre Tunings</span>](/assets/img/posts/hurrian/ModeCircle.mp4){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/animation_tunings.py.txt) and the [manim](https://github.com/3b1b/manim) library:_
-{: .license-text}
+**9\.** \_Original work [<span rel="http://purl.org/dc/terms/title">Lyre Tunings</span>](/assets/img/posts/hurrian/ModeCircle.mp4){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/animation_tunings.py.txt) and the [manim](https://github.com/3b1b/manim) library
+{: .footnote}
 
-**10\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library_
-{: .license-text}
+**10\.** Original work [<span rel="http://purl.org/dc/terms/title">h6 Intervals</span>](/assets/img/posts/hurrian/score.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_intervals.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**11\.** _[Image by José-Manuel Benito Álvarez](https://commons.wikimedia.org/wiki/File:Flauta_paleolítica.jpg) reproduced under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)_
+**11\.** [Image by José-Manuel Benito Álvarez](https://commons.wikimedia.org/wiki/File:Flauta_paleolítica.jpg) reproduced under [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)
+{: .footnote}
 
-**12\.** _Original work [<span rel="http://purl.org/dc/terms/title">Chord and scale</span>](/assets/img/posts/hurrian/scale.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/chord_vs_scale.py.txt) and the [abjad](https://abjad.github.io/) library_
+**12\.** Original work [<span rel="http://purl.org/dc/terms/title">Chord and scale</span>](/assets/img/posts/hurrian/scale.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/chord_vs_scale.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**13\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interval rhythms</span>](/assets/img/posts/hurrian/rhythms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/rhythms.py.txt) and the [abjad](https://abjad.github.io/) library_
+**13\.** Original work [<span rel="http://purl.org/dc/terms/title">Interval rhythms</span>](/assets/img/posts/hurrian/rhythms.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/rhythms.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**14\.** _[Image by Luis Miguel Bugallo Sánchez](https://commons.wikimedia.org/wiki/File:Ruído_Noise_041113GFDL.JPG), in the public domain_
+**14\.** [Image by Luis Miguel Bugallo Sánchez](https://commons.wikimedia.org/wiki/File:Ruído_Noise_041113GFDL.JPG), in the public domain
+{: .footnote}
 
-**15\.** _Original work [<span rel="http://purl.org/dc/terms/title">Interpretations matrix</span>](/assets/img/posts/hurrian/interpretations.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)_
+**15\.** Original work [<span rel="http://purl.org/dc/terms/title">Interpretations matrix</span>](/assets/img/posts/hurrian/interpretations.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+{: .footnote}
 
-**16\.** _Arrangement following Richard Dumbrill's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_dumbrill.py.txt) and the [abjad](https://abjad.github.io/) library_
+**16\.** Arrangement following Richard Dumbrill's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_dumbrill.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**17\.** _Arrangement following Martin Litchfield West's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_west.py.txt) and the [abjad](https://abjad.github.io/) library_
+**17\.** Arrangement following Martin Litchfield West's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_west.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**18\.** _[Arrangement by Raoul Vitale provided by Rami Vitale](https://commons.wikimedia.org/wiki/File:Hurrian_Hymn_6_interpreted_by_Raoul_Vitale.png) and reproduced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)_
+**18\.** [Arrangement by Raoul Vitale provided by Rami Vitale](https://commons.wikimedia.org/wiki/File:Hurrian_Hymn_6_interpreted_by_Raoul_Vitale.png) and reproduced under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+{: .footnote}
 
-**19\.** _Arrangement following Joe Monzo's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_monzo.py.txt) and the [abjad](https://abjad.github.io/) library_
+**19\.** Arrangement following Joe Monzo's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_monzo.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**20\.** _Arrangement following Theo Krispijn's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_krispijn.py.txt) and the [abjad](https://abjad.github.io/) library_
+**20\.** Arrangement following Theo Krispijn's process, made using [this Python script](/assets/pyscripts/posts/hurrian/score_krispijn.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
 
-**21\.** _Original work [<span rel="http://purl.org/dc/terms/title">h6 beat interpretation</span>](/assets/img/posts/hurrian/fletcher.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_fletcher.py.txt) and the [abjad](https://abjad.github.io/) library_
+**21\.** Original work [<span rel="http://purl.org/dc/terms/title">h6 beat interpretation</span>](/assets/img/posts/hurrian/fletcher.png){: rel="http://creativecommons.org/ns#attributionURL"} by [<span rel="http://creativecommons.org/ns#attributionName">William Fletcher</span>](/){: rel="http://creativecommons.org/ns#attributionURL"}, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) made using [this Python script](/assets/pyscripts/posts/hurrian/score_fletcher.py.txt) and the [abjad](https://abjad.github.io/) library
+{: .footnote}
