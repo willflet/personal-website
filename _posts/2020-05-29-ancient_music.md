@@ -189,7 +189,7 @@ To the untrained eye, this doesn't look much like music. However, there's someth
 
 They correspond to words from another tablet, [CBS 10996](https://cdli.ucla.edu/search/archival_view.php?ObjectID=P254475). This tablet isn't exactly from the same place (it was found in Nippur, Lower Mesopotamia) but the terminology pops up in quite a few texts over a wide area and timespan.
 
-{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/cbs10996.jpg" class="img-fluid rounded z-depth-1" title="CBS10996, the interval text" caption="6\. &nbsp; tablet cbs <span style='font-size:75%;'>10996</span>, the &quot;interval text&quot;" zoomable=true %}
+{% include figure.liquid loading="eager" path="/assets/img/posts/hurrian/cbs10996.jpg" class="img-fluid rounded z-depth-1" title="CBS10996, the interval text" caption="6. &nbsp; tablet cbs <span style='font-size:75%;'>10996</span>, the &quot;interval text&quot;" zoomable=true %}
 
 From these sources we know that the terms refer to **pairs of strings** on a [lyre](https://en.wikipedia.org/wiki/Lyre). Originally Akkadian with meanings such as "middle", "fourth", and "opening", they are Hurrianized in this text and others, without equivalent translation.
 
