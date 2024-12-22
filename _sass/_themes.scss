@@ -56,10 +56,11 @@
     display: none;
   }
 
-  .repo-img-light {
+  .only-light {
     display: block;
   }
-  .repo-img-dark {
+
+  .only-dark {
     display: none;
   }
 
@@ -111,10 +112,11 @@ html[data-theme="dark"] {
   --global-danger-block-text: #{$brick-color-lighter};
   --global-danger-block-title: #{$brick-color};
 
-  .repo-img-light {
+  .only-light {
     display: none;
   }
-  .repo-img-dark {
+
+  .only-dark {
     display: block;
   }
 }
